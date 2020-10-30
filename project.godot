@@ -1,0 +1,35 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Node",
+"class": "Passage",
+"language": "GDScript",
+"path": "res://Passage.gd"
+}, {
+"base": "Node",
+"class": "PassageLink",
+"language": "GDScript",
+"path": "res://PassageLink.gd"
+} ]
+_global_script_class_icons={
+"Passage": "",
+"PassageLink": ""
+}
+
+[application]
+
+config/name="Dialogue"
+run/main_scene="res://Dialogue.tscn"
+config/icon="res://icon.png"
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"

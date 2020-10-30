@@ -1,0 +1,4824 @@
+{
+  "passages": [
+    {
+      "text": "In a monastery deep in the mountains, Brother Samuel mulls over the scattered parchments on his desk. The lone candle in the center offers little light, but Samuel is used to reading in such circumstances. The mug of mead helps with eye-strain, at least that’s what he told himself. Earlier in life Samuel might have complained at the project in front of him, but with age comes a sense of responsibility along with a greater appreciation for tasks that didn’t stress his aching joints.\n\n[[Continue->Prologue: A Child's Arrival (2)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (2)",
+          "pid": "2"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (1)",
+      "pid": "1",
+      "position": {
+        "x": "800",
+        "y": "300"
+      },
+      "tags": [
+        "Prologue"
+      ]
+    },
+    {
+      "text": "Brother Samuel lifts the mug to his mouth only to discover the contents empty.\n\n[[Continue->Prologue: A Child's Arrival (3)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (3)",
+          "pid": "3"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (2)",
+      "pid": "2",
+      "position": {
+        "x": "925",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“Bah, one of these days I’m going to get a bigger cup,” he mutters to himself and rises from his seat.\n\n[[Continue->Prologue: A Child's Arrival (4)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (4)",
+          "pid": "4"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (3)",
+      "pid": "3",
+      "position": {
+        "x": "1050",
+        "y": "300"
+      }
+    },
+    {
+      "text": "As he moves, his plain robe sways in the air as if drapes hung over an open window. With one hand around the mug, and the other grasping his walking cane, he exits the monestary’s library. The simple gray stones lining the hallway appear black, except for the small area around the lit torches, not that Brother Samuel required sight to navigate his way around. The silence of the night is disturbed by the steady tap, tap, tap of his wooden cane on the stone floor.\n\n[[Continue->Prologue: A Child's Arrival (5)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (5)",
+          "pid": "5"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (4)",
+      "pid": "4",
+      "position": {
+        "x": "1175",
+        "y": "300"
+      }
+    },
+    {
+      "text": "Samuel enters the kitchen to discover it’s not empty. A young girl with bright blonde hair is on the floor with a bucket and rag. She scrubs at the floor, purposefully, ensuring every inch of the floor is spotless.\n\n[[Continue->Prologue: A Child's Arrival (6)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (6)",
+          "pid": "6"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (5)",
+      "pid": "5",
+      "position": {
+        "x": "1300",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“Child, what are you doing? It’s the middle of the night,” Samuel asks.\n\n[[Continue->Prologue: A Child's Arrival (7)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (7)",
+          "pid": "7"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (6)",
+      "pid": "6",
+      "position": {
+        "x": "1425",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“Brother Trevor said I need to scrub every inch of the kitchen to atone,” she answers.\n\n[[Continue->Prologue: A Child's Arrival (8)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (8)",
+          "pid": "8"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (7)",
+      "pid": "7",
+      "position": {
+        "x": "1550",
+        "y": "300"
+      }
+    },
+    {
+      "text": "She girl laughs. “Ew!”\n\n[[Continue->Prologue: A Child's Arrival (9)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (9)",
+          "pid": "9"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (8)",
+      "pid": "8",
+      "position": {
+        "x": "1675",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“What are you atoning for?”\n\n[[Continue->Prologue: A Child's Arrival (10)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (10)",
+          "pid": "10"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (9)",
+      "pid": "9",
+      "position": {
+        "x": "1800",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“Complaining.”\n\n[[Continue->Prologue: A Child's Arrival (11)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (11)",
+          "pid": "11"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (10)",
+      "pid": "10",
+      "position": {
+        "x": "1925",
+        "y": "300"
+      }
+    },
+    {
+      "text": "Brother Samuel begins to answer when he hears a noise from outside. Was it from within the monastery walls? No, the sudden crash wasn’t muffled or distorted at all. It had to have originated in the open air. The girl hasn’t returned to scrubbing, which means she heard it too; it wasn’t just the mead.\n\n[[Continue->Prologue: A Child's Arrival (12)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (12)",
+          "pid": "12"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (11)",
+      "pid": "11",
+      "position": {
+        "x": "2050",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“Go back to bed, girl. I’ll handle Brother Trevor in the morning,” Samuel quietly speaks.\n\n[[Continue->Prologue: A Child's Arrival (13)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (13)",
+          "pid": "13"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (12)",
+      "pid": "12",
+      "position": {
+        "x": "2175",
+        "y": "300"
+      }
+    },
+    {
+      "text": "She nods and leaves the kitchen. Brother Samuel places his empty mug on the counter and heads to the outside door. This time, he walks upright without the use of the cane. The open night air stings Brother Samuel’s wrinkled skin. The full moon illuminates the surrounding grassy hilltops. Trees sprinkled on the slopes cast dark shadows, creating pockets of darkness. No bandit had come close to the monastery in years. Even criminals were smart enough to keep their distance. If they weren’t, they learned quickly. Subtle movement on the hill catches his eye. The night air suddenly felt much colder.\n\n[[Continue->Prologue: A Child's Arrival (14)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (14)",
+          "pid": "14"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (13)",
+      "pid": "13",
+      "position": {
+        "x": "2300",
+        "y": "300"
+      }
+    },
+    {
+      "text": "Drawing on a lifetime of training as well as several cups of mead, Brother Samuel calmly walks towards the movement. Nearing the origin of the movement, Samuel suddenly feels the presence of someone, or something. Then he sees it. A boy lies collapsed in the grass. His clothes are tattered and several deep scratches line his arms and legs. His skin appears dark, although closer observation reveals it to be dirt.\n\n[[Continue->Prologue: A Child's Arrival (15)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (15)",
+          "pid": "15"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (14)",
+      "pid": "14",
+      "position": {
+        "x": "2425",
+        "y": "300"
+      }
+    },
+    {
+      "text": "Brother Samuel approaches the boy to check for signs of vitality. His fingers check for a pulse. It’s there, but barely. As Samuel leans to pick the boy up, a chill runs down his spine. He feels another’s presence. Samuel slowly brings his gaze up in front of him. A figure, masked in shadowy wisps, stands unmoving before him. Two crimson eyes peer through the darkness directly on Samuel.\n\n[[Continue->Prologue: A Child's Arrival (16)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (16)",
+          "pid": "16"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (15)",
+      "pid": "15",
+      "position": {
+        "x": "2550",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“You’ll not harm the boy, shade,” Brother Samuel speaks. He activates the divine magic seals on his cane for emphasis. The wood begins to emit holy light infusing its strength through Brother Samuel’s body.\n\n[[Continue->Prologue: A Child's Arrival (17)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (17)",
+          "pid": "17"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (16)",
+      "pid": "16",
+      "position": {
+        "x": "2675",
+        "y": "300"
+      }
+    },
+    {
+      "text": "The shade doesn’t react. Then Samuel begins to hear a slow, resonating laugh. The laughter isn’t audible, it feels as if it originates and echoes within Samuel’s head. In a swirl of black mist, the shade vanishes into the night. The mocking laugh begins to slowly subside within Samuel’s head. Samuel scoops his arms under the unconscious boy and lifts him from the ground.\n\n[[Continue->Prologue: A Child's Arrival (18)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Prologue: A Child's Arrival (18)",
+          "pid": "18"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (17)",
+      "pid": "17",
+      "position": {
+        "x": "2800",
+        "y": "300"
+      }
+    },
+    {
+      "text": "“You’re safe now, child,” he whispers to you.\n\n[[Chapter One (1)]]",
+      "links": [
+        {
+          "name": "Chapter One (1)",
+          "link": "Chapter One (1)",
+          "pid": "19"
+        }
+      ],
+      "name": "Prologue: A Child's Arrival (18)",
+      "pid": "18",
+      "position": {
+        "x": "2925",
+        "y": "300"
+      }
+    },
+    {
+      "text": "When I reflect upon my childhood, mixed emotions rise. On one hand, I appreciate the strict devotion of the monks. They knew who they were, which is more than could be said for the average person. On the other hand, a sinister, underlying ideology tainted their religion; the monks would only accept infants without any worldly or familial experience.\n\n[[Continue->Chapter One (2)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (2)",
+          "pid": "20"
+        }
+      ],
+      "name": "Chapter One (1)",
+      "pid": "19",
+      "position": {
+        "x": "800",
+        "y": "500"
+      },
+      "tags": [
+        "Chapter-One"
+      ]
+    },
+    {
+      "text": "I imagined my arrival to the monastery to be a result of loving parents wanting a better life for me. It was a good lie to believe at a young age. The monks accepted me, even though I was much older than an infant. That fact alone made me different from my peers and hurled me straight to the bottom of the hierarchy. The lie I told myself about my parents was one of the things that kept me going.\n\n[[Continue->Chapter One (3)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (3)",
+          "pid": "21"
+        }
+      ],
+      "name": "Chapter One (2)",
+      "pid": "20",
+      "position": {
+        "x": "925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "The monks were zealous in their beliefs, not allowing impurities of the body and mind to affect their training. I’m grateful for the discipline instilled in me at a young age. It made things easier. Not that it was an easy life. Rising before the sun to train, only to spend the daylight hours training even more, wasn’t an easy life. Habits are hard to break and the monks broke all of mine early on. My training became much more than lessons in discipline; it became a way of life.\n\n[[Continue->Chapter One (4)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (4)",
+          "pid": "22"
+        }
+      ],
+      "name": "Chapter One (3)",
+      "pid": "21",
+      "position": {
+        "x": "1050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Form one!”\n\n[[Continue->Chapter One (5)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (5)",
+          "pid": "23"
+        }
+      ],
+      "name": "Chapter One (4)",
+      "pid": "22",
+      "position": {
+        "x": "1175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Rows of children move in unison, reacting to the teacher’s instruction. Their feet step at exactly the same moment creating a single, thunderous clap.\n\n[[Continue->Chapter One (6)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (6)",
+          "pid": "24"
+        }
+      ],
+      "name": "Chapter One (5)",
+      "pid": "23",
+      "position": {
+        "x": "1300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Form two!”\n\n[[Continue->Chapter One (7)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (7)",
+          "pid": "25"
+        }
+      ],
+      "name": "Chapter One (6)",
+      "pid": "24",
+      "position": {
+        "x": "1425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "The bodies shift their weight to the side and powerfully weave their hands into a defensive position. Upon movement, the bodies breathe out at exactly the same time.\n\n[[Continue->Chapter One (8)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (8)",
+          "pid": "26"
+        }
+      ],
+      "name": "Chapter One (7)",
+      "pid": "25",
+      "position": {
+        "x": "1550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Form three!”\n\n[[Continue->Chapter One (9)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (9)",
+          "pid": "27"
+        }
+      ],
+      "name": "Chapter One (8)",
+      "pid": "26",
+      "position": {
+        "x": "1675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "The bodies turn to their left and let loose a series of punches and kicks. All except one. You turn right instead of left. The rest of the children break out in laughter over your mistake.\n\n[[Continue->Chapter One (10)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (10)",
+          "pid": "28"
+        }
+      ],
+      "name": "Chapter One (9)",
+      "pid": "27",
+      "position": {
+        "x": "1800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Acolyte. Stay!” Brother Trevor commands. “The rest of you are on meal prep.”\n\n[[Continue->Chapter One (11)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (11)",
+          "pid": "29"
+        }
+      ],
+      "name": "Chapter One (10)",
+      "pid": "28",
+      "position": {
+        "x": "1925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "As the room empties, you stand still, ignoring jabs from your passing peers. You stand stiff, unmoving, for fear of upsetting the Brother even more. When the last of your peers exits the room, Brother Trevor addresses you.\n\n[[Continue->Chapter One (12)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (12)",
+          "pid": "30"
+        }
+      ],
+      "name": "Chapter One (11)",
+      "pid": "29",
+      "position": {
+        "x": "2050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I know you did that on purpose,” he spits.\n\n[[Continue->Chapter One (13)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (13)",
+          "pid": "31"
+        }
+      ],
+      "name": "Chapter One (12)",
+      "pid": "30",
+      "position": {
+        "x": "2175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Did what?” you ask.\n\n[[Continue->Chapter One (14)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (14)",
+          "pid": "32"
+        }
+      ],
+      "name": "Chapter One (13)",
+      "pid": "31",
+      "position": {
+        "x": "2300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Your answer is met with a backhand to your cheek.\n\n[[Continue->Chapter One (15)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (15)",
+          "pid": "33"
+        }
+      ],
+      "name": "Chapter One (14)",
+      "pid": "32",
+      "position": {
+        "x": "2425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Don’t play dumb with me, acolyte. You may not know it, but we have watchful eyes everywhere. I’ve seen you flow through the forms flawlessly.”\n\n[[Continue->Chapter One (16)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (16)",
+          "pid": "34"
+        }
+      ],
+      "name": "Chapter One (15)",
+      "pid": "33",
+      "position": {
+        "x": "2550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I just messed up is all,” you answer, rubbing your cheek.\n\n[[Continue->Chapter One (17)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (17)",
+          "pid": "35"
+        }
+      ],
+      "name": "Chapter One (16)",
+      "pid": "34",
+      "position": {
+        "x": "2675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Your answer is met with another strike knocking you to the floor.\n\n[[Continue->Chapter One (18)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (18)",
+          "pid": "36"
+        }
+      ],
+      "name": "Chapter One (17)",
+      "pid": "35",
+      "position": {
+        "x": "2800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Admit it,” Brother Trevor growls. He begins to walk towards your fallen body.\n\n[[Admit it->Chapter One (19)]]\n[[Keep your story->Chapter One (62)]]",
+      "links": [
+        {
+          "name": "Admit it",
+          "link": "Chapter One (19)",
+          "pid": "37"
+        },
+        {
+          "name": "Keep your story",
+          "link": "Chapter One (62)",
+          "pid": "81"
+        }
+      ],
+      "name": "Chapter One (18)",
+      "pid": "36",
+      "position": {
+        "x": "2925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "You feel the ground shake with Brother Trevor’s footsteps as he stomps towards you. Just before he arrives, you speak.\n\n[[Continue->Chapter One (20)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (20)",
+          "pid": "38"
+        }
+      ],
+      "name": "Chapter One (19)",
+      "pid": "37",
+      "position": {
+        "x": "3050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Ok, fine.”\n\n[[Continue->Chapter One (21)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (21)",
+          "pid": "39"
+        }
+      ],
+      "name": "Chapter One (20)",
+      "pid": "38",
+      "position": {
+        "x": "3175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Fine...what?” he prods.\n\n[[Continue->Chapter One (22)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (22)",
+          "pid": "40"
+        }
+      ],
+      "name": "Chapter One (21)",
+      "pid": "39",
+      "position": {
+        "x": "3300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Fine. I did it on purpose. I thought it’d be funny.”\n\n[[Continue->Chapter One (23)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (23)",
+          "pid": "41"
+        }
+      ],
+      "name": "Chapter One (22)",
+      "pid": "40",
+      "position": {
+        "x": "3425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Well it wasn’t,” Brother Trevor answers. “One may not reach enlightenment if they are focused on being funny, rather than being disciplined.”\n\n[[Continue->Chapter One (24)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (24)",
+          "pid": "42"
+        }
+      ],
+      "name": "Chapter One (23)",
+      "pid": "41",
+      "position": {
+        "x": "3550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "You nod.\n\n[[Continue->Chapter One (25)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (25)",
+          "pid": "43"
+        }
+      ],
+      "name": "Chapter One (24)",
+      "pid": "42",
+      "position": {
+        "x": "3675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Instead of repreminding you, I have a better solution.” Your eyes begin to widen at your good fortune. They quickly melt once he continues. “You’ll be given extra training hours before sunrise and before you’re allowed to sleep. That should instill the forms within your practice. Now go before I add cleaning hours on top of that.”\n\n[[Continue->Chapter One (26)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (26)",
+          "pid": "44"
+        }
+      ],
+      "name": "Chapter One (25)",
+      "pid": "43",
+      "position": {
+        "x": "3800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "You sprint out of the room so that Brother Trevor cannot make good on his warning. You’re moving so quickly that you don’t notice the girl in front of you. You both go flying to the floor, and the folded laundry she’s carrying scatters all over the floor.\n\n[[Continue->Chapter One (27)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (27)",
+          "pid": "45"
+        }
+      ],
+      "name": "Chapter One (26)",
+      "pid": "44",
+      "position": {
+        "x": "3925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Damn it!” she exclaims.\n\n[[Continue->Chapter One (28)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (28)",
+          "pid": "46"
+        }
+      ],
+      "name": "Chapter One (27)",
+      "pid": "45",
+      "position": {
+        "x": "4050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Sorry,” you mutter, helping her to her feet. “I’d watch your language if I were you. The monks don’t like bad words.”\n\n[[Continue->Chapter One (29)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (29)",
+          "pid": "47"
+        }
+      ],
+      "name": "Chapter One (28)",
+      "pid": "46",
+      "position": {
+        "x": "4175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I heard Brother Samuel say it once. More than once actually,” she replies, curling a strand of bright blonde hair behind her ear.\n\n[[Continue->Chapter One (30)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (30)",
+          "pid": "48"
+        }
+      ],
+      "name": "Chapter One (29)",
+      "pid": "47",
+      "position": {
+        "x": "4300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Me too. But he can get away with a lot more than me,” you say. “Hey, I didn’t see you training with us. How’d you get away with that?”\n\n[[Continue->Chapter One (31)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (31)",
+          "pid": "49"
+        }
+      ],
+      "name": "Chapter One (30)",
+      "pid": "48",
+      "position": {
+        "x": "4425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“This,” she spreads her arms wide at the mess of clothing on the floor. “And I train with the advanced students.”\n\n[[Continue->Chapter One (32)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (32)",
+          "pid": "50"
+        }
+      ],
+      "name": "Chapter One (31)",
+      "pid": "49",
+      "position": {
+        "x": "4550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“You do? Can you teach me?” you ask.\n\n[[Continue->Chapter One (33)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (33)",
+          "pid": "51"
+        }
+      ],
+      "name": "Chapter One (32)",
+      "pid": "50",
+      "position": {
+        "x": "4675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Help me with the laundry first and then ask me,” she replies.\n\n[[Later that day...->Chapter One (34)]]",
+      "links": [
+        {
+          "name": "Later that day...",
+          "link": "Chapter One (34)",
+          "pid": "52"
+        }
+      ],
+      "name": "Chapter One (33)",
+      "pid": "51",
+      "position": {
+        "x": "4800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "A flurry of fists thump into your chest. You attempt to block, but each blow keeps you distracted from the next. Her foot follows the series of punches, sending you sprawling to the ground. Still balancing with her leg outstretched, the girl, Kassi, laughs at your misfortune.\n\n[[Continue->Chapter One (35)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (35)",
+          "pid": "53"
+        }
+      ],
+      "name": "Chapter One (34)",
+      "pid": "52",
+      "position": {
+        "x": "4925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“It’s a good thing Brother Trevor is making you train more. You could use it.”\n\n[[Continue->Chapter One (36)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (36)",
+          "pid": "54"
+        }
+      ],
+      "name": "Chapter One (35)",
+      "pid": "53",
+      "position": {
+        "x": "5050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Unanswering, you pull yourself up and raise your arms defensively. Still smiling, Kassi lunges forward. You cover your face with your hands and hug your elbows in tight to protect your torso. Still, somehow, her strikes find their mark. One left hook finds its way to your temple temporarily stunning you.\n\n[[Continue->Chapter One (37)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (37)",
+          "pid": "55"
+        }
+      ],
+      "name": "Chapter One (36)",
+      "pid": "54",
+      "position": {
+        "x": "5175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Give up,” she says, holding an aggressive stance.\n\n[[Continue->Chapter One (38)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (38)",
+          "pid": "56"
+        }
+      ],
+      "name": "Chapter One (37)",
+      "pid": "55",
+      "position": {
+        "x": "5300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Never,” you reply, still holding your defensive posture.\n\n[[Continue->Chapter One (39)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (39)",
+          "pid": "57"
+        }
+      ],
+      "name": "Chapter One (38)",
+      "pid": "56",
+      "position": {
+        "x": "5425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Shaking her head, she steps forward for another series of attacks. This time you’re ready for her. Covering your head and torso, you wait for her offense to begin. As she lets loose another combination, you drive your weight into her. One of your arms underhooks hers, and the other wraps around the far side of her neck. Shifting your hips below Kassi’s for leverage, you complete the “head ‘n arm” throw and land on top of her. Before she can recover, you toss the underhooked arm aside and press your head into the base of her arm, pinning it against the side of her neck. Connecting both hands together, you begin to squeeze. Your arm around Kassi’s neck and her own arm pressed against the other side cuts off her air flow.\n\n[[Continue->Chapter One (40)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (40)",
+          "pid": "58"
+        }
+      ],
+      "name": "Chapter One (39)",
+      "pid": "57",
+      "position": {
+        "x": "5550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Kassi, tap out,” a male voice echoes across the training mat. You look to see Brother Samuel, although you make sure to keep the choke first.\n\n[[Continue->Chapter One (41)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (41)",
+          "pid": "59"
+        }
+      ],
+      "name": "Chapter One (40)",
+      "pid": "58",
+      "position": {
+        "x": "5675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "She struggles, gritting her teeth. She tries to strike, but in your dominant position her attack is ineffective. Eventually, her struggling begins to fade.\n\n[[Continue->Chapter One (42)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (42)",
+          "pid": "60"
+        }
+      ],
+      "name": "Chapter One (41)",
+      "pid": "59",
+      "position": {
+        "x": "5800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“That’s enough, child,” Samuel says walking across the mat.\n\n[[Continue->Chapter One (43)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (43)",
+          "pid": "61"
+        }
+      ],
+      "name": "Chapter One (42)",
+      "pid": "60",
+      "position": {
+        "x": "5925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“She’s always been a stubborn one. Devoted, but stubborn,” Brother Samuel comments. He kneels down beside her unconscious body and closes his eyes. After uttering words you cannot comprehend, he places his palm on her forehead. Blue light softly glows from the small crevice between his palm and her head. Her eyes burst wide open, and she sits up suddenly.\n\n[[Continue->Chapter One (44)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (44)",
+          "pid": "62"
+        }
+      ],
+      "name": "Chapter One (43)",
+      "pid": "61",
+      "position": {
+        "x": "6050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Jerk. We were training, not fighting for real,” she addresses you.\n\n[[Continue->Chapter One (45)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (45)",
+          "pid": "63"
+        }
+      ],
+      "name": "Chapter One (44)",
+      "pid": "62",
+      "position": {
+        "x": "6175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I saw an opening and I took it,” you reply. “You leave yourself open during your attacks—”\n\n[[Continue->Chapter One (46)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (46)",
+          "pid": "64"
+        }
+      ],
+      "name": "Chapter One (45)",
+      "pid": "63",
+      "position": {
+        "x": "6300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“That’s enough you two,” Brother Samuel interjects. “You’re both right. I think you should continue to train together. Kassi, you’re one of our top acolytes. It’s almost unheard of for someone your age to train at the intermediate level. You could teach a lot to our friend here. In return, you’ll get more experience with a physically stronger opponent.”\n\n[[Continue->Chapter One (47)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (47)",
+          "pid": "65"
+        }
+      ],
+      "name": "Chapter One (46)",
+      "pid": "64",
+      "position": {
+        "x": "6425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Your face breaks into a wide grin at the implication you’re stronger than her. Brother Samuel turns your direction. “And you, the newest of the acolytes could stand to improve as well. Raw strength will only carry you so far. There’s always someone stronger.”\n\n[[Talk to her->Chapter One (48)]]\n[[Months later...->Chapter One (90)]]",
+      "links": [
+        {
+          "name": "Talk to her",
+          "link": "Chapter One (48)",
+          "pid": "66"
+        },
+        {
+          "name": "Months later...",
+          "link": "Chapter One (90)",
+          "pid": "67"
+        }
+      ],
+      "name": "Chapter One (47)",
+      "pid": "65",
+      "position": {
+        "x": "6550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "After Brother Samuel leaves the room, you turn to Kassi. “Sorry if I took it too far.”\n\n[[Continue->Chapter One (49)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (49)",
+          "pid": "68"
+        }
+      ],
+      "name": "Chapter One (48)",
+      "pid": "66",
+      "position": {
+        "x": "6675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "The blindfold around your head prevents you from seeing your footing. You stand on a series of narrow wooden beams. The beams are lifted several feet from the ground. It wouldn’t be a fatal fall, but it’d definitely leave a mark.. Focusing your mind, you try to imagine the placement of each beam as you hop between them. Upon each successful landing, you let loose a series of strikes from the practice sword in your hand. As you’re no stranger to the balancing structure, you keep your mind highly aware of which beam you’re on. Not all the beams are separated evenly apart, and you’ve witnessed more than a couple unlucky acolytes misjudge their position. Your mind is focused on the task and—\n\n[[Continue->Chapter One (91)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (91)",
+          "pid": "109"
+        }
+      ],
+      "name": "Chapter One (90)",
+      "pid": "67",
+      "position": {
+        "x": "6550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“It’s fine. I just don’t like losing. Especially to the outlaw,” she answers.\n\n[[Continue->Chapter One (50)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (50)",
+          "pid": "69"
+        }
+      ],
+      "name": "Chapter One (49)",
+      "pid": "68",
+      "position": {
+        "x": "6800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Outlaw?” you question.\n\n[[Continue->Chapter One (51)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (51)",
+          "pid": "70"
+        }
+      ],
+      "name": "Chapter One (50)",
+      "pid": "69",
+      "position": {
+        "x": "6925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "She sighs. “That’s what some of the other kids call you. Since you aren’t one of us.”\n\n[[Continue->Chapter One (52)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (52)",
+          "pid": "71"
+        }
+      ],
+      "name": "Chapter One (51)",
+      "pid": "70",
+      "position": {
+        "x": "7050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "You understand her meaning. The other kids were brought to the monastery from birth. Your history was unknown to them, and more than a few children near your age were turned down. They don’t understand why you’re allowed to stay or why Brother Samuel has taken such an interest in you. Part of it could be jealousy, part of it could be the nature of kids. Perhaps a bit of both.\n\n[[Continue->Chapter One (53)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (53)",
+          "pid": "72"
+        }
+      ],
+      "name": "Chapter One (52)",
+      "pid": "71",
+      "position": {
+        "x": "7175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "Changing the subject you ask, “How’d you get so good with your forms?”\n\n[[Continue->Chapter One (54)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (54)",
+          "pid": "73"
+        }
+      ],
+      "name": "Chapter One (53)",
+      "pid": "72",
+      "position": {
+        "x": "7300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Brother Trevor always had it out for me. A lot of extra time in the practice room, I guess. You know I’m related to the Grandmaster, right?”\n\n[[Continue->Chapter One (55)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (55)",
+          "pid": "74"
+        }
+      ],
+      "name": "Chapter One (54)",
+      "pid": "73",
+      "position": {
+        "x": "7425",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“No. I thought we’re not allowed to have relations.”\n\n[[Continue->Chapter One (56)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (56)",
+          "pid": "75"
+        }
+      ],
+      "name": "Chapter One (55)",
+      "pid": "74",
+      "position": {
+        "x": "7550",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Grandmaster didn’t. His sister did and she brought me here.”\n\n[[Continue->Chapter One (57)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (57)",
+          "pid": "76"
+        }
+      ],
+      "name": "Chapter One (56)",
+      "pid": "75",
+      "position": {
+        "x": "7675",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Where’s she now?”\n\n[[Continue->Chapter One (58)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (58)",
+          "pid": "77"
+        }
+      ],
+      "name": "Chapter One (57)",
+      "pid": "76",
+      "position": {
+        "x": "7800",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I don’t know, I’ve never met her.”\n\n[[Continue->Chapter One (59)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (59)",
+          "pid": "78"
+        }
+      ],
+      "name": "Chapter One (58)",
+      "pid": "77",
+      "position": {
+        "x": "7925",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“Oh.”\n\n[[Continue->Chapter One (60)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (60)",
+          "pid": "79"
+        }
+      ],
+      "name": "Chapter One (59)",
+      "pid": "78",
+      "position": {
+        "x": "8050",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I’d stay away from Garth if I were you,” she says suddenly. “I think he has it out for you.”\n\n[[Continue->Chapter One (61)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (61)",
+          "pid": "80"
+        }
+      ],
+      "name": "Chapter One (60)",
+      "pid": "79",
+      "position": {
+        "x": "8175",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“I think he does too,” you answer.\n\n[[Months later...->Chapter One (90)]]",
+      "links": [
+        {
+          "name": "Months later...",
+          "link": "Chapter One (90)",
+          "pid": "67"
+        }
+      ],
+      "name": "Chapter One (61)",
+      "pid": "80",
+      "position": {
+        "x": "8300",
+        "y": "500"
+      }
+    },
+    {
+      "text": "“No.”\n\n[[Continue->Chapter One (63)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (63)",
+          "pid": "82"
+        }
+      ],
+      "name": "Chapter One (62)",
+      "pid": "81",
+      "position": {
+        "x": "2925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You stand to your feet, a bit wobbly, before Brother Trevor can inflict any more damage in your prone state. The act of defiance visibly angers him. The outline of his jaw clenches as he approaches. His arm winds back, and you raise your arms defensively...but the blow never arrives. You peel back your arms, slowly, to see why. His entire demeanor is different. The anger, so clearly shown on his face, is gone. Standing before you is a calm, stoic monk.\n\n[[Continue->Chapter One (64)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (64)",
+          "pid": "83"
+        }
+      ],
+      "name": "Chapter One (63)",
+      "pid": "82",
+      "position": {
+        "x": "3050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“My temper is my vice. I must atone for straying from the path,” he says with a singular tone.\n\n[[Continue->Chapter One (65)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (65)",
+          "pid": "84"
+        }
+      ],
+      "name": "Chapter One (64)",
+      "pid": "83",
+      "position": {
+        "x": "3175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "As you completely lower your defensive posture, he continues. “My vice does not excuse yours though. You lack discipline, and I’m assigning extra training sessions until you learn. Physical mastery without a trained mind is useless.”\n\n[[Continue->Chapter One (66)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (66)",
+          "pid": "85"
+        }
+      ],
+      "name": "Chapter One (65)",
+      "pid": "84",
+      "position": {
+        "x": "3300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Yes sir,” you reluctantly reply.\n\n[[Continue->Chapter One (67)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (67)",
+          "pid": "86"
+        }
+      ],
+      "name": "Chapter One (66)",
+      "pid": "85",
+      "position": {
+        "x": "3425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Movement catches your eye from the doorway. A girl with bright blonde hair passes by carrying an armload of folded cloth.\n\n[[Continue->Chapter One (68)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (68)",
+          "pid": "87"
+        }
+      ],
+      "name": "Chapter One (67)",
+      "pid": "86",
+      "position": {
+        "x": "3550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Kassi!”\n\n[[Continue->Chapter One (69)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (69)",
+          "pid": "88"
+        }
+      ],
+      "name": "Chapter One (68)",
+      "pid": "87",
+      "position": {
+        "x": "3675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The girl stops at Brother Trevor’s call. She enters the room still carrying the neatly folded cloth. Her hair shines gold, only rivaled by her sparkling sapphire eyes. She’s about your age if you had to guess. Maybe one or two years older. You make eye contact. The connection makes you smile. She doesn’t return the gesture.\n\n[[Continue->Chapter One (70)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (70)",
+          "pid": "89"
+        }
+      ],
+      "name": "Chapter One (69)",
+      "pid": "88",
+      "position": {
+        "x": "3800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Yes, Brother?” she asks.\n\n[[Continue->Chapter One (71)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (71)",
+          "pid": "90"
+        }
+      ],
+      "name": "Chapter One (70)",
+      "pid": "89",
+      "position": {
+        "x": "3925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Kassi, you train with the advanced students. I want you to help bring this one up to speed,” Brother Trevor says motioning to you.\n\n[[Continue->Chapter One (72)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (72)",
+          "pid": "91"
+        }
+      ],
+      "name": "Chapter One (71)",
+      "pid": "90",
+      "position": {
+        "x": "4050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Her face curls. “Aw, what did I do this time?”\n\n[[Continue->Chapter One (73)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (73)",
+          "pid": "92"
+        }
+      ],
+      "name": "Chapter One (72)",
+      "pid": "91",
+      "position": {
+        "x": "4175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You’re complaining. This is for your benefit as well. To teach is to learn.”\n\n[[Continue->Chapter One (74)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (74)",
+          "pid": "93"
+        }
+      ],
+      "name": "Chapter One (73)",
+      "pid": "92",
+      "position": {
+        "x": "4300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Fine,” she utters. Turning to you she adds, “Meet me here before sunrise.”\n\n[[The next morning...->Chapter One (75)]]",
+      "links": [
+        {
+          "name": "The next morning...",
+          "link": "Chapter One (75)",
+          "pid": "94"
+        }
+      ],
+      "name": "Chapter One (74)",
+      "pid": "93",
+      "position": {
+        "x": "4425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You roll over in your bunk. Instead of the usual sun rays hitting the small window in the room, you’re met with darkness followed by more darkness. Groaning, you pull yourself out of bed and tip toe from the sleeping quarters. The other students are sound asleep...until you open the door. Candlelight from the outside hall pours into the room and awakens a few kids near the doorway. In unison, just like the forms, they place their pillows over their eyes, but not before you catch glimpses of their half-asleep pouts. Your shared misery brings a small grin to the corner of your lips.\n\n[[Continue->Chapter One (76)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (76)",
+          "pid": "95"
+        }
+      ],
+      "name": "Chapter One (75)",
+      "pid": "94",
+      "position": {
+        "x": "4550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You arrive at the training room to find Kassi already there.\n\n[[Continue->Chapter One (77)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (77)",
+          "pid": "96"
+        }
+      ],
+      "name": "Chapter One (76)",
+      "pid": "95",
+      "position": {
+        "x": "4675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You’re late,” she comments.\n\n[[Continue->Chapter One (78)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (78)",
+          "pid": "97"
+        }
+      ],
+      "name": "Chapter One (77)",
+      "pid": "96",
+      "position": {
+        "x": "4800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“The sun isn’t up. You said ‘before sunrise,’” you reply.\n\n[[Continue->Chapter One (79)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (79)",
+          "pid": "98"
+        }
+      ],
+      "name": "Chapter One (78)",
+      "pid": "97",
+      "position": {
+        "x": "4925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“That means an hour before the sun is up,” she answers. Her strict tone subsides. “I’m surprised you made it here at all. How did you wake yourself in time?”\n\n[[Continue->Chapter One (80)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (80)",
+          "pid": "99"
+        }
+      ],
+      "name": "Chapter One (79)",
+      "pid": "98",
+      "position": {
+        "x": "5050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I thought really hard about waking up early and I did.”\n\n[[Continue->Chapter One (81)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (81)",
+          "pid": "100"
+        }
+      ],
+      "name": "Chapter One (80)",
+      "pid": "99",
+      "position": {
+        "x": "5175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Good. Next time think an hour earlier. We’ll go through each of the forms and I’ll correct you,” Kassi instructs.\n\n[[Continue->Chapter One (82)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (82)",
+          "pid": "101"
+        }
+      ],
+      "name": "Chapter One (81)",
+      "pid": "100",
+      "position": {
+        "x": "5300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "She begins to tie her hair back into a single ponytail. The way she nonchalantly ties it back along with her commanding tone makes you think she’s older than she looks.\n\n[[Continue->Chapter One (83)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (83)",
+          "pid": "102"
+        }
+      ],
+      "name": "Chapter One (82)",
+      "pid": "101",
+      "position": {
+        "x": "5425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“How old are you?” you ask while maintaining the form.\n\n[[Continue->Chapter One (84)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (84)",
+          "pid": "103"
+        }
+      ],
+      "name": "Chapter One (83)",
+      "pid": "102",
+      "position": {
+        "x": "5550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Did anyone teach you not to ask a girl that?” she asks.\n\n[[Continue->Chapter One (85)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (85)",
+          "pid": "104"
+        }
+      ],
+      "name": "Chapter One (84)",
+      "pid": "103",
+      "position": {
+        "x": "5675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“No. Are you not supposed to?”\n\n[[Continue->Chapter One (86)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (86)",
+          "pid": "105"
+        }
+      ],
+      "name": "Chapter One (85)",
+      "pid": "104",
+      "position": {
+        "x": "5800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“No. There, now you know not to.”\n\n[[Continue->Chapter One (87)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (87)",
+          "pid": "106"
+        }
+      ],
+      "name": "Chapter One (86)",
+      "pid": "105",
+      "position": {
+        "x": "5925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You complete the rest of the practice and realize the sun is starting to appear over the hills. Sunrise meant it was time for morning meditation. You and Kassi head to the prayer chamber together.\n\n[[Continue->Chapter One (88)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (88)",
+          "pid": "107"
+        }
+      ],
+      "name": "Chapter One (87)",
+      "pid": "106",
+      "position": {
+        "x": "6050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "On your way she asks, “Same time tomorrow?”\n\n[[Continue->Chapter One (89)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (89)",
+          "pid": "108"
+        }
+      ],
+      "name": "Chapter One (88)",
+      "pid": "107",
+      "position": {
+        "x": "6175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You reply with a nod.\n\n[[Months later...->Chapter One (90)]]",
+      "links": [
+        {
+          "name": "Months later...",
+          "link": "Chapter One (90)",
+          "pid": "67"
+        }
+      ],
+      "name": "Chapter One (89)",
+      "pid": "108",
+      "position": {
+        "x": "6300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Are you ready for the Grand Melee?” Kassi asks running up to you.\n\n[[Continue->Chapter One (92)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (92)",
+          "pid": "110"
+        }
+      ],
+      "name": "Chapter One (91)",
+      "pid": "109",
+      "position": {
+        "x": "6675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You lose your balance for a split-second and shakily bring your arms to a “T” shape to regain it. Realizing you’re broken from the meditative state, you remove the blindfold and hop down from the balancing beams.\n\n[[Continue->Chapter One (93)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (93)",
+          "pid": "111"
+        }
+      ],
+      "name": "Chapter One (92)",
+      "pid": "110",
+      "position": {
+        "x": "6800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You interrupted my practice,” you comment.\n\n[[Continue->Chapter One (94)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (94)",
+          "pid": "112"
+        }
+      ],
+      "name": "Chapter One (93)",
+      "pid": "111",
+      "position": {
+        "x": "6925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You wouldn’t be able to do that if it wasn’t for me teaching you,” she replies.\n\n[[Continue->Chapter One (95)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (95)",
+          "pid": "113"
+        }
+      ],
+      "name": "Chapter One (94)",
+      "pid": "112",
+      "position": {
+        "x": "7050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Fair enough.”\n\n[[Continue->Chapter One (96)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (96)",
+          "pid": "114"
+        }
+      ],
+      "name": "Chapter One (95)",
+      "pid": "113",
+      "position": {
+        "x": "7175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“So...the Grand Melee is coming up. Do you know which event you’re entering?”\n\n[[Continue->Chapter One (97)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (97)",
+          "pid": "115"
+        }
+      ],
+      "name": "Chapter One (96)",
+      "pid": "114",
+      "position": {
+        "x": "7300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Not yet. What about you?”\n\n[[Continue->Chapter One (98)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (98)",
+          "pid": "116"
+        }
+      ],
+      "name": "Chapter One (97)",
+      "pid": "115",
+      "position": {
+        "x": "7425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Unarmed combat, of course. I won it last year.”\n\n[[Continue->Chapter One (99)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (99)",
+          "pid": "117"
+        }
+      ],
+      "name": "Chapter One (98)",
+      "pid": "116",
+      "position": {
+        "x": "7550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I didn’t enter last year,” you point out.\n\n[[Continue->Chapter One (100)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (100)",
+          "pid": "118"
+        }
+      ],
+      "name": "Chapter One (99)",
+      "pid": "117",
+      "position": {
+        "x": "7675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“True. Enter it then. Unless you’re scared.”\n\n[[Continue->Chapter One (101)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (101)",
+          "pid": "119"
+        }
+      ],
+      "name": "Chapter One (100)",
+      "pid": "118",
+      "position": {
+        "x": "7800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Remind me again, what are the different categories?”\n\n[[Continue->Chapter One (102)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (102)",
+          "pid": "120"
+        }
+      ],
+      "name": "Chapter One (101)",
+      "pid": "119",
+      "position": {
+        "x": "7925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Unarmed combat, form mastery, and dueling.”\n\n[[Continue->Chapter One (103)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (103)",
+          "pid": "121"
+        }
+      ],
+      "name": "Chapter One (102)",
+      "pid": "120",
+      "position": {
+        "x": "8050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Tell me more about…”\n\n[[Unarmed Combat->Chapter One (104)]]\n[[Form Mastery->Chapter One (115)]]\n[[Dueling->Chapter One (126)]]",
+      "links": [
+        {
+          "name": "Unarmed Combat",
+          "link": "Chapter One (104)",
+          "pid": "122"
+        },
+        {
+          "name": "Form Mastery",
+          "link": "Chapter One (115)",
+          "pid": "133"
+        },
+        {
+          "name": "Dueling",
+          "link": "Chapter One (126)",
+          "pid": "144"
+        }
+      ],
+      "name": "Chapter One (103)",
+      "pid": "121",
+      "position": {
+        "x": "8175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Tell me more about Unarmed Combat,” you say.\n\n[[Continue->Chapter One (105)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (105)",
+          "pid": "123"
+        }
+      ],
+      "name": "Chapter One (104)",
+      "pid": "122",
+      "position": {
+        "x": "8300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "A smile lights up on her face. “It’s easily the most fun category.”\n\n[[Continue->Chapter One (106)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (106)",
+          "pid": "124"
+        }
+      ],
+      "name": "Chapter One (105)",
+      "pid": "123",
+      "position": {
+        "x": "8425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Yeah, and?” you prod.\n\n[[Continue->Chapter One (107)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (107)",
+          "pid": "125"
+        }
+      ],
+      "name": "Chapter One (106)",
+      "pid": "124",
+      "position": {
+        "x": "8550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“And they pair you against an opponent in the ring. The winner moves on, the loser doesn’t.”\n\n[[Continue->Chapter One (108)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (108)",
+          "pid": "126"
+        }
+      ],
+      "name": "Chapter One (107)",
+      "pid": "125",
+      "position": {
+        "x": "8675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Is it striking only?” you ask.\n\n[[Continue->Chapter One (109)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (109)",
+          "pid": "127"
+        }
+      ],
+      "name": "Chapter One (108)",
+      "pid": "126",
+      "position": {
+        "x": "8800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“No, of course not. Anything goes really. Except attacks on the eyes.” she replies. “Do you think you’ll enter?”\n\n[[Enter Unarmed Combat->Chapter One (110)]]\n[[Tell me more about Form Mastery->Chapter One (115)]]\n[[Tell me more about Dueling->Chapter One (126)]]",
+      "links": [
+        {
+          "name": "Enter Unarmed Combat",
+          "link": "Chapter One (110)",
+          "pid": "128"
+        },
+        {
+          "name": "Tell me more about Form Mastery",
+          "link": "Chapter One (115)",
+          "pid": "133"
+        },
+        {
+          "name": "Tell me more about Dueling",
+          "link": "Chapter One (126)",
+          "pid": "144"
+        }
+      ],
+      "name": "Chapter One (109)",
+      "pid": "127",
+      "position": {
+        "x": "8925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I’m going to enter the Unarmed Combat competition,” you say.\n\n[[Continue->Chapter One (111)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (111)",
+          "pid": "129"
+        }
+      ],
+      "name": "Chapter One (110)",
+      "pid": "128",
+      "position": {
+        "x": "9050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Your funeral,” Kassi replies. “Just don’t lose before I can teach you another lesson.”\n\n[[Continue->Chapter One (112)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (112)",
+          "pid": "130"
+        }
+      ],
+      "name": "Chapter One (111)",
+      "pid": "129",
+      "position": {
+        "x": "9175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "She leaves you alone to practice. You slip the blindfold back on and pull yourself onto the beams. With each hop and technique you practice, you imagine facing an opponent in the unarmed competition. You imagine, specifically, each of your peers in front of you and their tendencies. Then, you imagine the counter. An overaggressive striker leaves himself open to a takedown. A grappler looks to grab hold of their opponent, best not to throw many kicks and give them an opening. Brawlers want to drag you into their chaotic mess. Similarly, a disciplined, but inexperienced, fighter might be lost in the chaos and forget their well-practiced techniques.\n\n[[Continue->Chapter One (113)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (113)",
+          "pid": "131"
+        }
+      ],
+      "name": "Chapter One (112)",
+      "pid": "130",
+      "position": {
+        "x": "9300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You lose yourself in the practice until a bell rings, signaling dinner, drawing you out from the trance.\n\n[[Meanwhile...->Chapter One (114)]]",
+      "links": [
+        {
+          "name": "Meanwhile...",
+          "link": "Chapter One (114)",
+          "pid": "132"
+        }
+      ],
+      "name": "Chapter One (113)",
+      "pid": "131",
+      "position": {
+        "x": "9425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel hadn’t told anyone of the shade's appearance, except for the Grandmaster himself. Deep down, the shade’s interest in the boy frightened him. He had the feeling it wouldn’t be the last appearance to the boy. The boy’s past is a mystery, and ordinarily he would have been turned away from the monastery. Though he didn’t show it, Brother Samuel could tell the Grandmaster took special interest in the boy as well. Samuel knew the Grandmaster before he earned the title. Only the Master of Archives could share the same boast.\n\n[[Continue->Chapter One (138)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (138)",
+          "pid": "155"
+        }
+      ],
+      "name": "Chapter One (114)",
+      "pid": "132",
+      "position": {
+        "x": "9550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Tell me more about Form Mastery,” you say.\n\n[[Continue->Chapter One (116)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (116)",
+          "pid": "134"
+        }
+      ],
+      "name": "Chapter One (115)",
+      "pid": "133",
+      "position": {
+        "x": "8175",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“It’s exactly that,” she answers. “You’ll demonstrate your knowledge of the forms.”\n\n[[Continue->Chapter One (117)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (117)",
+          "pid": "135"
+        }
+      ],
+      "name": "Chapter One (116)",
+      "pid": "134",
+      "position": {
+        "x": "8300",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“The brothers have seen us do them countless times. What’s special about this?”\n\n[[Continue->Chapter One (118)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (118)",
+          "pid": "136"
+        }
+      ],
+      "name": "Chapter One (117)",
+      "pid": "135",
+      "position": {
+        "x": "8425",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“They’ll be judging every small detail. And they’ll make you answer questions too.”\n\n[[Continue->Chapter One (119)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (119)",
+          "pid": "137"
+        }
+      ],
+      "name": "Chapter One (118)",
+      "pid": "136",
+      "position": {
+        "x": "8550",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“That doesn’t sound like fun,” you comment.\n\n[[Continue->Chapter One (120)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (120)",
+          "pid": "138"
+        }
+      ],
+      "name": "Chapter One (119)",
+      "pid": "137",
+      "position": {
+        "x": "8675",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“Not as fun as fighting,” she replies. “Think you’ll enter?”\n\n[[Enter Form Mastery->Chapter One (121)]]\n[[Tell me more about Unarmed Combat->Chapter One (104)]]\n[[Tell me more about Dueling->Chapter One (126)]]",
+      "links": [
+        {
+          "name": "Enter Form Mastery",
+          "link": "Chapter One (121)",
+          "pid": "139"
+        },
+        {
+          "name": "Tell me more about Unarmed Combat",
+          "link": "Chapter One (104)",
+          "pid": "122"
+        },
+        {
+          "name": "Tell me more about Dueling",
+          "link": "Chapter One (126)",
+          "pid": "144"
+        }
+      ],
+      "name": "Chapter One (120)",
+      "pid": "138",
+      "position": {
+        "x": "8800",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“I think I’ll enter form mastery,” you say.\n\n[[Continue->Chapter One (122)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (122)",
+          "pid": "140"
+        }
+      ],
+      "name": "Chapter One (121)",
+      "pid": "139",
+      "position": {
+        "x": "8925",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“Ugh, why?” Kassi asks. “Nevermind. Good luck.”\n\n[[Continue->Chapter One (123)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (123)",
+          "pid": "141"
+        }
+      ],
+      "name": "Chapter One (122)",
+      "pid": "140",
+      "position": {
+        "x": "9050",
+        "y": "750"
+      }
+    },
+    {
+      "text": "With that, she leaves you alone. You slip the blindfold back on and hoist yourself to the beams. You leave the practice sword behind so you can focus on flowing through the forms. You pivot to the right, as if moving through water, and guide your arms to the proper blocking technique in the form. Then quickly you counter with a flurry of punches ending with left hook. The simplicity and sudden burst from the technique makes it a deadly combination.\n\n[[Continue->Chapter One (124)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (124)",
+          "pid": "142"
+        }
+      ],
+      "name": "Chapter One (123)",
+      "pid": "141",
+      "position": {
+        "x": "9175",
+        "y": "750"
+      }
+    },
+    {
+      "text": "Next, you plant both feet down as if an unmoving tree. A slight bend in the knees gives your legs strength and balance. You cover your face with your fists and keep your elbows in, protecting your torso. Then, you move through the evasive weaving. Depending on your opponent's stance, the power blow will come from the left or right. It almost always comes from the limb that’s furthest away. Best to avoid the power side and dodge to the other.\n\n[[Continue->Chapter One (125)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (125)",
+          "pid": "143"
+        }
+      ],
+      "name": "Chapter One (124)",
+      "pid": "142",
+      "position": {
+        "x": "9300",
+        "y": "750"
+      }
+    },
+    {
+      "text": "Finally, you end your session with an offensive manevour. You open with a spinning heel kick, using the momentum to carry you to the next strike: a flying knee. As the form relies on quick, powerful explosions, you lunge from beam to beam to keep in constant motion. The idea of the form is to always be in motion. The opponent will naturally see your movements at a certain speed. Once they’re lulled, you strike quick like a cobra searching for the fight-ending blow.\n\n[[Meanwhile...->Chapter One (114)]]]",
+      "links": [
+        {
+          "name": "Meanwhile...",
+          "link": "Chapter One (114)",
+          "pid": "132"
+        }
+      ],
+      "name": "Chapter One (125)",
+      "pid": "143",
+      "position": {
+        "x": "9425",
+        "y": "750"
+      }
+    },
+    {
+      "text": "“Tell me more about Dueling,” you say.\n\n[[Continue->Chapter One (127)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (127)",
+          "pid": "145"
+        }
+      ],
+      "name": "Chapter One (126)",
+      "pid": "144",
+      "position": {
+        "x": "8175",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“This is my second favorite,” she answers. “It’s a lot like the unarmed format except you’re armed.”\n\n[[Continue->Chapter One (129)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (129)",
+          "pid": "146"
+        }
+      ],
+      "name": "Chapter One (127)",
+      "pid": "145",
+      "position": {
+        "x": "8300",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“So it’s one on one?” you ask.\n\n[[Continue->Chapter One (130)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (130)",
+          "pid": "147"
+        }
+      ],
+      "name": "Chapter One (129)",
+      "pid": "146",
+      "position": {
+        "x": "8425",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“Yep! The winners keep fighting until there’s one left.”\n\n[[Continue->Chapter One (131)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (131)",
+          "pid": "148"
+        }
+      ],
+      "name": "Chapter One (130)",
+      "pid": "147",
+      "position": {
+        "x": "8550",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“Do you have a choice in the weapon?”\n\n[[Continue->Chapter One (132)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (132)",
+          "pid": "149"
+        }
+      ],
+      "name": "Chapter One (131)",
+      "pid": "148",
+      "position": {
+        "x": "8675",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“No, it’s random. You pull a stone from a bag and get the weapon it stands for. Think you’ll enter?”\n\n[[Enter Dueling->Chapter One (133)]]\n[[Tell me more about Unarmed Combat->Chapter One (104)]]\n[[Tell me more about Form Mastery->Chapter One (115)]]",
+      "links": [
+        {
+          "name": "Enter Dueling",
+          "link": "Chapter One (133)",
+          "pid": "150"
+        },
+        {
+          "name": "Tell me more about Unarmed Combat",
+          "link": "Chapter One (104)",
+          "pid": "122"
+        },
+        {
+          "name": "Tell me more about Form Mastery",
+          "link": "Chapter One (115)",
+          "pid": "133"
+        }
+      ],
+      "name": "Chapter One (132)",
+      "pid": "149",
+      "position": {
+        "x": "8800",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“I’m going to enter the dueling competition,” you say.\n\n[[Continue->Chapter One (134)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (134)",
+          "pid": "151"
+        }
+      ],
+      "name": "Chapter One (133)",
+      "pid": "150",
+      "position": {
+        "x": "8925",
+        "y": "875"
+      }
+    },
+    {
+      "text": "“Good luck. Garth usually wins that, and he doesn’t like you,” Kassi replies.\n\n[[Continue->Chapter One (135)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (135)",
+          "pid": "152"
+        }
+      ],
+      "name": "Chapter One (134)",
+      "pid": "151",
+      "position": {
+        "x": "9050",
+        "y": "875"
+      }
+    },
+    {
+      "text": "She leaves you to finish your training session. You grip your training sword firmly in your palm. The wooden longsword could be used with one hand or both. You admire the versatility of the weapon. Shields are too bulky for your style, though you respect the classic combination of offense and defence. You imagine your chances of winning are high if you get a sword in your hand. Even a staff would be fine, you are mostly worried about getting something unconventional like a flail or whip.\n\n[[Continue->Chapter One (136)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (136)",
+          "pid": "153"
+        }
+      ],
+      "name": "Chapter One (135)",
+      "pid": "152",
+      "position": {
+        "x": "9175",
+        "y": "875"
+      }
+    },
+    {
+      "text": "Then you realize you don’t even know which weapons will even be included in the competition. You focus on your basic techniques, the universal truths that apply to any weapon wielded, such as limiting your motion with the weapon. Wood is light, but wielding real metal can easily tire oneself out. Unnecessary movements may capture the eye, but they’re not sustainable in a long battle.\n\n[[Continue->Chapter One (137)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (137)",
+          "pid": "154"
+        }
+      ],
+      "name": "Chapter One (136)",
+      "pid": "153",
+      "position": {
+        "x": "9300",
+        "y": "875"
+      }
+    },
+    {
+      "text": "You lose yourself in the practice until the dinner bell brings you from the trance.\n\n[[Meanwhile...->Chapter One (114)]]",
+      "links": [
+        {
+          "name": "Meanwhile...",
+          "link": "Chapter One (114)",
+          "pid": "132"
+        }
+      ],
+      "name": "Chapter One (137)",
+      "pid": "154",
+      "position": {
+        "x": "9425",
+        "y": "875"
+      }
+    },
+    {
+      "text": "Brother Samuel reaches his destination: the Grandmaster’s private study. The heavy oak door is reinforced with steel, barring unwanted entry. Samuel knows there are other deterrents to keep thieves or renegade monks out. He closes his eyes to focus on the seals. Magic flows from his open palms dispelling the deadly traps. He takes a coin from his pocket and looks at the door’s keyhole. He whispers into the coin, and the object transforms into a key. He unlocks the door and flips the key into the air. After several flips in the air, a coin lands into his open palm.\n\n[[Continue->Chapter One (139)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (139)",
+          "pid": "156"
+        }
+      ],
+      "name": "Chapter One (138)",
+      "pid": "155",
+      "position": {
+        "x": "9675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Still got it, old man,” he whispers to himself.\n\n[[Continue->Chapter One (140)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (140)",
+          "pid": "157"
+        }
+      ],
+      "name": "Chapter One (139)",
+      "pid": "156",
+      "position": {
+        "x": "9800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The door swings open revealing a room lined with bookcases. There isn’t a single bare wall. As his presence is detected, torches light up illuminating the entire room in their blue glow. Samuel places his cane on the center table and begins to search for the book he came for.\n\n[[Continue->Chapter One (141)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (141)",
+          "pid": "158"
+        }
+      ],
+      "name": "Chapter One (140)",
+      "pid": "157",
+      "position": {
+        "x": "9925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You shouldn’t be here,” a voice projects from behind him.\n\n[[Continue->Chapter One (142)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (142)",
+          "pid": "159"
+        }
+      ],
+      "name": "Chapter One (141)",
+      "pid": "158",
+      "position": {
+        "x": "10050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel turns to see a white glowing light. The wisp, the Master of Archives, shines disapprovingly. Not many would be able to tell an approving shine versus a disapproving one, but Brother Samuel is not unaccustomed to the one before him.\n\n[[Continue->Chapter One (143)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (143)",
+          "pid": "160"
+        }
+      ],
+      "name": "Chapter One (142)",
+      "pid": "159",
+      "position": {
+        "x": "10175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You know I wouldn’t be here if it wasn’t important,” Brother Samuel replies.\n\n[[Continue->Chapter One (144)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (144)",
+          "pid": "161"
+        }
+      ],
+      "name": "Chapter One (143)",
+      "pid": "160",
+      "position": {
+        "x": "10300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Why not come with the Grandmaster? You are among the few he’s invited in,” the wisp answers.\n\n[[Continue->Chapter One (145)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (145)",
+          "pid": "162"
+        }
+      ],
+      "name": "Chapter One (144)",
+      "pid": "161",
+      "position": {
+        "x": "10425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Samuel hesitates. He knows the wisp will relay his words and actions to the Grandmaster. “I’m searching for a tome on dark magic. Specifically, on the origins of shades. The Grandmaster is far too busy to help me look for a book.”\n\n[[Continue->Chapter One (146)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (146)",
+          "pid": "163"
+        }
+      ],
+      "name": "Chapter One (145)",
+      "pid": "162",
+      "position": {
+        "x": "10550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“We have plenty of history books in the main library.”\n\n[[Continue->Chapter One (147)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (147)",
+          "pid": "164"
+        }
+      ],
+      "name": "Chapter One (146)",
+      "pid": "163",
+      "position": {
+        "x": "10675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“This one is not among them.”\n\n[[Continue->Chapter One (148)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (148)",
+          "pid": "165"
+        }
+      ],
+      "name": "Chapter One (147)",
+      "pid": "164",
+      "position": {
+        "x": "10800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“What makes you so sure?”\n\n[[Continue->Chapter One (149)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (149)",
+          "pid": "166"
+        }
+      ],
+      "name": "Chapter One (148)",
+      "pid": "165",
+      "position": {
+        "x": "10925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Samuel takes a seat at the center table. He’d been standing too long without his cane. He breathes out an exhausted breath. “Because I’ve checked. I’ve spent years carefully working through all the volumes we have in the library. It’s not there.”\n\n[[Continue->Chapter One (150)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (150)",
+          "pid": "167"
+        }
+      ],
+      "name": "Chapter One (149)",
+      "pid": "166",
+      "position": {
+        "x": "11050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Very well, follow me. I shall inform the Grandmaster of your intrusion. No doubt, he will reprimand you for your actions. I am no guardian of knowledge. I exist to further it.”\n\n[[Continue->Chapter One (151)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (151)",
+          "pid": "168"
+        }
+      ],
+      "name": "Chapter One (150)",
+      "pid": "167",
+      "position": {
+        "x": "11175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Whatever punishment the Grandmaster gave, it would be worth it. Brother Samuel rises from his seat and follows the wisp down the hall of books. The white glow from the Master of Archives, in combination with the blue torch light, casts sinister-looking shadows from angles of differently shapen books. The two arrive at a small section of the bookcase wall. The Master of Archives circles in the air for a moment and then flies directly into the wall. The light vanishes instantly, leaving Brother Samuel alone in the blue.\n\n[[Continue->Chapter One (152)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (152)",
+          "pid": "169"
+        }
+      ],
+      "name": "Chapter One (151)",
+      "pid": "168",
+      "position": {
+        "x": "11300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel stands still for a few moments and then begins to feel uneasy. The thought pops into his head that the wisp could have let him into a trap. He checks the hallway for movement. Nothing. Suddenly, the bookcase swings open and Samuel is face to face with the wisp.\n\n[[Continue->Chapter One (153)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (153)",
+          "pid": "170"
+        }
+      ],
+      "name": "Chapter One (152)",
+      "pid": "169",
+      "position": {
+        "x": "11425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“It’s a lot harder to open a doorway without arms,” the wisp says.\n\n[[Continue->Chapter One (154)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (154)",
+          "pid": "171"
+        }
+      ],
+      "name": "Chapter One (153)",
+      "pid": "170",
+      "position": {
+        "x": "11550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel frowns. “I don’t remember you being funny. Maybe this is a trap,” he comments.\n\n[[Continue->Chapter One (155)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (155)",
+          "pid": "172"
+        }
+      ],
+      "name": "Chapter One (154)",
+      "pid": "171",
+      "position": {
+        "x": "11675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The Master of Archives ignores him and flies down the dark staircase. Brother Samuel does his best to follow quickly. The narrow staircase leads into an even narrower hallway and finally to an open room. Several single-bodied cells are against the sidewalls. Samuel gulps and tries to ignore them. The wisp leads him through rows of cells before arriving at a series of pedestals, five of them arranged around a summoning circle.\n\n[[Continue->Chapter One (156)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (156)",
+          "pid": "173"
+        }
+      ],
+      "name": "Chapter One (155)",
+      "pid": "172",
+      "position": {
+        "x": "11800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“The tome is here?” he asks.\n\n[[Continue->Chapter One (157)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (157)",
+          "pid": "174"
+        }
+      ],
+      "name": "Chapter One (156)",
+      "pid": "173",
+      "position": {
+        "x": "11925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“In a manner of speaking,” the wisp replies. “Approach the middle pedestal.”\n\n[[Continue->Chapter One (158)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (158)",
+          "pid": "175"
+        }
+      ],
+      "name": "Chapter One (157)",
+      "pid": "174",
+      "position": {
+        "x": "12050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel does as he’s instructed. On top of the pedestal lies an open scroll. Samuel instantly recognizes the spell’s intent. “By the light, I’m to call him to this plane?” he wonders aloud.\n\n[[Continue->Chapter One (159)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (159)",
+          "pid": "176"
+        }
+      ],
+      "name": "Chapter One (158)",
+      "pid": "175",
+      "position": {
+        "x": "12175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Such knowledge is too dangerous to be written.”\n\n[[Continue->Chapter One (160)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (160)",
+          "pid": "177"
+        }
+      ],
+      "name": "Chapter One (159)",
+      "pid": "176",
+      "position": {
+        "x": "12300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“And summoning the dead isn’t?” Samuel retorts. “Very well. If this is the only way.”\n\n[[Continue->Chapter One (161)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (161)",
+          "pid": "178"
+        }
+      ],
+      "name": "Chapter One (160)",
+      "pid": "177",
+      "position": {
+        "x": "12425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel silently reads the scroll, softly moving his lips as if pronouncing the words. Satisfied at his ability, he speaks the incantation. Nothing happens and he repeats it again. Still nothing. Finally, he shouts the incantation.\n\n[[Continue->Chapter One (162)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (162)",
+          "pid": "179"
+        }
+      ],
+      "name": "Chapter One (161)",
+      "pid": "178",
+      "position": {
+        "x": "12550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Black mist begins to swirl at the circle’s center. It begins low and then slowly builds in density and rotation. As quickly as it appeared, the mist dissipates. A lone figure hunches in the summoning circle: Ragar the Unbroken. His skin loosely hangs from his bones, completely absent in many places. The few strands of black hair that haven’t fallen out completely dangle near the edge of his shoulders. The left side of his mouth is completely rotted away.\n\n[[Continue->Chapter One (163)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (163)",
+          "pid": "180"
+        }
+      ],
+      "name": "Chapter One (162)",
+      "pid": "179",
+      "position": {
+        "x": "12675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Why have you called me from the abyss?” Ragar snarls.\n\n[[Continue->Chapter One (164)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (164)",
+          "pid": "181"
+        }
+      ],
+      "name": "Chapter One (163)",
+      "pid": "180",
+      "position": {
+        "x": "12800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I seek knowledge on shades,” Brother Samuel answers. “Knowledge that even the lowliest necromancer would have.”\n\n[[Continue->Chapter One (165)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (165)",
+          "pid": "182"
+        }
+      ],
+      "name": "Chapter One (164)",
+      "pid": "181",
+      "position": {
+        "x": "12925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Shades! Don’t insult me, monk. I have no love for petty sorcerers, but even less for devotees of the light.”\n\n[[Continue->Chapter One (166)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (166)",
+          "pid": "183"
+        }
+      ],
+      "name": "Chapter One (165)",
+      "pid": "182",
+      "position": {
+        "x": "13050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You will tell me the knowledge I seek,” Samuel commands. He holds out his arm in focus. Blinding light fires from his open palm searing Ragar’s cheek. Ragar grimaces in pain and attempts to resist. The magic seals surrounding the summoning chamber amplifies the divine magic. The ray from Samuel’s palm grows brighter.\n\n[[Continue->Chapter One (167)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (167)",
+          "pid": "184"
+        }
+      ],
+      "name": "Chapter One (166)",
+      "pid": "183",
+      "position": {
+        "x": "13175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Tell me what I seek!” Samuel shouts.\n\n[[Continue->Chapter One (168)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (168)",
+          "pid": "185"
+        }
+      ],
+      "name": "Chapter One (167)",
+      "pid": "184",
+      "position": {
+        "x": "13300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "A piercing screech projects from the summoned spirit echoing throughout the room. The intensity grows with the ray’s brightness. Suddenly, the spirit collapses. The screech, now silent, leaves behind a soft ringing in Samuel’s ears.\n\n[[Continue->Chapter One (169)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (169)",
+          "pid": "186"
+        }
+      ],
+      "name": "Chapter One (168)",
+      "pid": "185",
+      "position": {
+        "x": "13425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Very well,” Ragar the Unbroken utters. “Ask your accursed questions and release me.”\n\n[[Continue->Chapter One (170)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (170)",
+          "pid": "187"
+        }
+      ],
+      "name": "Chapter One (169)",
+      "pid": "186",
+      "position": {
+        "x": "13550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I’ve crossed paths with a shade and—”\n\n[[Continue->Chapter One (171)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (171)",
+          "pid": "188"
+        }
+      ],
+      "name": "Chapter One (170)",
+      "pid": "187",
+      "position": {
+        "x": "13675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Then you’re lucky to still be alive, monk,” Ragar interrupts.\n\n[[Continue->Chapter One (172)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (172)",
+          "pid": "189"
+        }
+      ],
+      "name": "Chapter One (171)",
+      "pid": "188",
+      "position": {
+        "x": "13800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Samuel warns him with a look and continues. “Shades are the spirits of the dead in possession of a living being. Is there a reason a shade would be interested in another being? A boy.”\n\n[[Continue->Chapter One (173)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (173)",
+          "pid": "190"
+        }
+      ],
+      "name": "Chapter One (172)",
+      "pid": "189",
+      "position": {
+        "x": "13925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“It is not uncommon for the spirit to search for a more powerful host. There is a fine line between choosing to possess a strong host, and being destroyed in the attempt. If the spirit grows too ambitious, they may find themselves facing a being too powerful. That’s why shades primarily inhabit sorcerers who overstep in their search for powerful magic.\n\n[[Continue->Chapter One (174)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (174)",
+          "pid": "191"
+        }
+      ],
+      "name": "Chapter One (173)",
+      "pid": "190",
+      "position": {
+        "x": "14050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I came across a boy being pursued by a shade. I do not understand how the boy resisted its possession.\n\n[[Continue->Chapter One (175)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (175)",
+          "pid": "192"
+        }
+      ],
+      "name": "Chapter One (174)",
+      "pid": "191",
+      "position": {
+        "x": "14175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Are you sure he resisted?”\n\n[[Continue->Chapter One (176)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (176)",
+          "pid": "193"
+        }
+      ],
+      "name": "Chapter One (175)",
+      "pid": "192",
+      "position": {
+        "x": "14300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I am sure he resisted the shade,” Brother Samuel says.\n\n[[Continue->Chapter One (177)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (177)",
+          "pid": "194"
+        }
+      ],
+      "name": "Chapter One (176)",
+      "pid": "193",
+      "position": {
+        "x": "14425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“That is your concern, not mine. Release me, monk, I have answered all of your questions,” Ragar the Unbroken replies.\n\n[[Continue->Chapter One (178)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (178)",
+          "pid": "195"
+        }
+      ],
+      "name": "Chapter One (177)",
+      "pid": "194",
+      "position": {
+        "x": "14550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I am not finished with you yet,” Samuel begins to reply.\n\n[[Continue->Chapter One (179)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (179)",
+          "pid": "196"
+        }
+      ],
+      "name": "Chapter One (178)",
+      "pid": "195",
+      "position": {
+        "x": "14675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Oh, but you are finished,” Ragar the Unbroken cuts him off.\n\n[[Continue->Chapter One (180)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (180)",
+          "pid": "197"
+        }
+      ],
+      "name": "Chapter One (179)",
+      "pid": "196",
+      "position": {
+        "x": "14800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "It’s at that moment Brother Samuel notices a break in the summoning circle. Ragar the Unbroken strides through the magic seals, gazing intently on Samuel. The monk begins to draw on the magic infused in his cane, but Ragar is quicker. Shadow magic fills the air cutting Brother Samuel’s ability to breathe. The magic hangs heavy as if the monk is dragged further and further underwater.\n\n[[Continue->Chapter One (181)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (181)",
+          "pid": "198"
+        }
+      ],
+      "name": "Chapter One (180)",
+      "pid": "197",
+      "position": {
+        "x": "14925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Ragar fires a shadow bolt directly at Brother Samuel’s chest. Unable to move in time, Samuel closes his eyes preparing for the end and...nothing. He blinks his eyes open to find a hooded figure beside him.\n\n[[Continue->Chapter One (182)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (182)",
+          "pid": "199"
+        }
+      ],
+      "name": "Chapter One (181)",
+      "pid": "198",
+      "position": {
+        "x": "15050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Fool!” the Grandmaster shouts while maintaining the protective shield around the two. The medallion around his neck emits a bright white light.\n\n[[Continue->Chapter One (183)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (183)",
+          "pid": "200"
+        }
+      ],
+      "name": "Chapter One (182)",
+      "pid": "199",
+      "position": {
+        "x": "15175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Ragar the Unbroken fires several more shadow bolts towards the monks. Each is absorbed through into the shield. Brother Samuel sees the Grandmaster’s eyes squint slightly in concentration, then his eyes turn the same pure white emanating from the medallion. The Grandmaster expertly weaves his arms forward. The energy absorbed into the shield begins to redirect into a ball firing straight towards Ragar. The blast explodes into the wall sending chunks of rock to the floor.\n\n[[Continue->Chapter One (184)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (184)",
+          "pid": "201"
+        }
+      ],
+      "name": "Chapter One (183)",
+      "pid": "200",
+      "position": {
+        "x": "15300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "In the aftermath, Ragar the Unbroken is nowhere to be seen.\n\n[[Continue->Chapter One (185)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (185)",
+          "pid": "202"
+        }
+      ],
+      "name": "Chapter One (184)",
+      "pid": "201",
+      "position": {
+        "x": "15425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Is he dead?” Brother Samuel asks.\n\n[[Continue->Chapter One (186)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (186)",
+          "pid": "203"
+        }
+      ],
+      "name": "Chapter One (185)",
+      "pid": "202",
+      "position": {
+        "x": "15550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Yes, for centuries,” the Grandmaster replies.\n\n[[Continue->Chapter One (187)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (187)",
+          "pid": "204"
+        }
+      ],
+      "name": "Chapter One (186)",
+      "pid": "203",
+      "position": {
+        "x": "15675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Brother Samuel’s gaze meets the Grandmaster’s gray eyes. “I’m sorry. I had to know,” he breaks the silence.\n\n[[Continue->Chapter One (188)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (188)",
+          "pid": "205"
+        }
+      ],
+      "name": "Chapter One (187)",
+      "pid": "204",
+      "position": {
+        "x": "15800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The Grandmaster places his hand on Samuel’s shoulder. “My friend, I do not blame you for seeking truth. You were foolish to seek it alone. Come, we will speak on this later. The king’s emissaries will soon be arriving for the Grand Melee.”\n\n[[Continue->Chapter One (189)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (189)",
+          "pid": "206"
+        }
+      ],
+      "name": "Chapter One (188)",
+      "pid": "205",
+      "position": {
+        "x": "15925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The day of the Grand Melee has finally arrived. The weeks since your talk with Kassi has been spent preparing for this day. The event takes place on a nearby mountainside. Halfway up the rocky slope, a section of the mountain jettisons out as if the top portion was cut cleanly off. The result is flat-topped overhang, which overlooks the surrounding hills. Many monks trek to the area for prolonged meditation, but today it was meant for combat.\n\n[[Continue->Chapter One (190)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (190)",
+          "pid": "207"
+        }
+      ],
+      "name": "Chapter One (189)",
+      "pid": "206",
+      "position": {
+        "x": "16050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "A lifted stage lies in the center of the plateau. The structure is built to be a little smaller than the practice room mats. The stage stands several feet from the ground and has no railing. In each of the melee’s categories, if you fall, you’re automatically disqualified. You stand next to Kassi in the ready room, although it’s more a roped-off enclosure than room.\n\n[[Continue->Chapter One (191)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (191)",
+          "pid": "208"
+        }
+      ],
+      "name": "Chapter One (190)",
+      "pid": "207",
+      "position": {
+        "x": "16175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Who’s that next to the Grandmaster?” you ask her.\n\n[[Continue->Chapter One (192)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (192)",
+          "pid": "209"
+        }
+      ],
+      "name": "Chapter One (191)",
+      "pid": "208",
+      "position": {
+        "x": "16300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Next to the hooded elder stands a man dressed in an armored dark red robe.The crimson robe is reinforced with light plate in several key areas. A sizeable, yet nimble, breastplate is attached to his front and back torso. His shoulders are protected by layered pieces of metal. There doesn’t appear to be any armor from his waist-down, with movement prioritized over raw protection. Two short swords hang on his back. Brother Samuel stands near the two. He notices your stare, and gives a friendly wink.\n\n[[Continue->Chapter One (193)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (193)",
+          "pid": "210"
+        }
+      ],
+      "name": "Chapter One (192)",
+      "pid": "209",
+      "position": {
+        "x": "16425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“That’s the king’s emissary,” she replies. “You don’t know about the emissary?”\n\n[[Continue->Chapter One (194)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (194)",
+          "pid": "211"
+        }
+      ],
+      "name": "Chapter One (193)",
+      "pid": "210",
+      "position": {
+        "x": "16550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You shake your head.\n\n[[Continue->Chapter One (195)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (195)",
+          "pid": "212"
+        }
+      ],
+      "name": "Chapter One (194)",
+      "pid": "211",
+      "position": {
+        "x": "16675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“During every melee, the King sends a man to scout for warriors. Once a year, one of us is recruited to serve the King.”\n\n[[Continue->Chapter One (196)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (196)",
+          "pid": "213"
+        }
+      ],
+      "name": "Chapter One (195)",
+      "pid": "212",
+      "position": {
+        "x": "16800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“He taking one of us?” you ask.\n\n[[Continue->Chapter One (197)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (197)",
+          "pid": "214"
+        }
+      ],
+      "name": "Chapter One (196)",
+      "pid": "213",
+      "position": {
+        "x": "16925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Of course. The King protects our borders and in return we help protect him.”\n\n[[Continue->Chapter One (198)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (198)",
+          "pid": "215"
+        }
+      ],
+      "name": "Chapter One (197)",
+      "pid": "214",
+      "position": {
+        "x": "17050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I didn’t know that,” you comment.\n\n[[Continue->Chapter One (199)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (199)",
+          "pid": "216"
+        }
+      ],
+      "name": "Chapter One (198)",
+      "pid": "215",
+      "position": {
+        "x": "17175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You haven’t been here long. Don’t worry, he only takes the top warrior. You’ll be with us for life,” she answers.\n\n[[Continue->Chapter One (200)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (200)",
+          "pid": "217"
+        }
+      ],
+      "name": "Chapter One (199)",
+      "pid": "216",
+      "position": {
+        "x": "17300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You reply with a nasty, but playful look.\n\n[[Continue->Chapter One (201)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (201)",
+          "pid": "218"
+        }
+      ],
+      "name": "Chapter One (200)",
+      "pid": "217",
+      "position": {
+        "x": "17425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Movement catches your eye. Your gaze is drawn to center stage where Brother Trevor begins the announcements.\n\n[[Continue->Chapter One (202)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (202)",
+          "pid": "219"
+        }
+      ],
+      "name": "Chapter One (201)",
+      "pid": "218",
+      "position": {
+        "x": "17550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Welcome brothers. The time of the Grand Melee is upon us. This is a time where we put our disciplined training to the test. Without trial, we cannot fully understand our strength. The good King Aeric has sent his man, Seth, to observe our progress. This is a time where—”\n\n[[Continue->Chapter One (203)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (203)",
+          "pid": "220"
+        }
+      ],
+      "name": "Chapter One (202)",
+      "pid": "219",
+      "position": {
+        "x": "17675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Fire!” a monk near the plateau’s edge yells.\n\n[[Continue->Chapter One (204)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (204)",
+          "pid": "221"
+        }
+      ],
+      "name": "Chapter One (203)",
+      "pid": "220",
+      "position": {
+        "x": "17800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The cliff’s edge becomes crowded as the mountain’s inhabitants rush for a viewing spot. From within the monastery's eastern wall, a pillar of smoke rises through the air. Like ants spewing from an anthill, soldiers pour over the surrounding hills charging towards the monastery. Large flaming projectiles fly in the air, their siege constructs hidden by the hills.\n\n[[Continue->Chapter One (205)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (205)",
+          "pid": "222"
+        }
+      ],
+      "name": "Chapter One (204)",
+      "pid": "221",
+      "position": {
+        "x": "17925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Is this the ‘protection’ King Aeric offers?” one of the younger members questions.\n\n[[Continue->Chapter One (206)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (206)",
+          "pid": "223"
+        }
+      ],
+      "name": "Chapter One (205)",
+      "pid": "222",
+      "position": {
+        "x": "18050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Quiet yourself,” the Grandmaster interjects. “We have not been overrun in a thousand years. I’ll not allow it to happen now.”\n\n[[Continue->Chapter One (207)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (207)",
+          "pid": "224"
+        }
+      ],
+      "name": "Chapter One (206)",
+      "pid": "223",
+      "position": {
+        "x": "18175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The Grandmaster steps to the very edge of the cliff. The mountain wind carries his robe as if a cape behind him. His arms move through the air as his lips speak the spell into existence. An outline of a door appears just off the cliff’s edge.\n\n[[Continue->Chapter One (208)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (208)",
+          "pid": "225"
+        }
+      ],
+      "name": "Chapter One (207)",
+      "pid": "224",
+      "position": {
+        "x": "18300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Step through the portal. We must protect our home,” the Grandmaster directs. “Lucky for us, King Aeric’s emissary is here to help.”\n\n[[Continue->Chapter One (209)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (209)",
+          "pid": "226"
+        }
+      ],
+      "name": "Chapter One (208)",
+      "pid": "225",
+      "position": {
+        "x": "18425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "One by one, the monks step out over the cliff into the portal. The way their bodies disappear reminds you of dropping a rock into a pond. Seth walks to the portal with his hands on his hips shaking his head. You could imagine his thought: “today of all days...”\n\n[[Continue->Chapter One (210)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (210)",
+          "pid": "227"
+        }
+      ],
+      "name": "Chapter One (209)",
+      "pid": "226",
+      "position": {
+        "x": "18550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Finally it gets to your turn. You begin to step forward and feel a hand stop you. You turn to find Brother Samuel.\n\n[[Continue->Chapter One (211)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (211)",
+          "pid": "228"
+        }
+      ],
+      "name": "Chapter One (210)",
+      "pid": "227",
+      "position": {
+        "x": "18675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“This day has come sooner than I expected, child,” he speaks.\n\n[[Continue->Chapter One (212)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (212)",
+          "pid": "229"
+        }
+      ],
+      "name": "Chapter One (211)",
+      "pid": "228",
+      "position": {
+        "x": "18800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“What do you mean?” you inquire.\n\n[[Continue->Chapter One (213)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (213)",
+          "pid": "230"
+        }
+      ],
+      "name": "Chapter One (212)",
+      "pid": "229",
+      "position": {
+        "x": "18925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Since I brought you in, I knew you were not destined to live a solitary life. I never did tell you about the night I found you.”\n\n[[Continue->Chapter One (214)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (214)",
+          "pid": "231"
+        }
+      ],
+      "name": "Chapter One (213)",
+      "pid": "230",
+      "position": {
+        "x": "19050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“What happened?”\n\n[[Continue->Chapter One (215)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (215)",
+          "pid": "232"
+        }
+      ],
+      "name": "Chapter One (214)",
+      "pid": "231",
+      "position": {
+        "x": "19175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You see his face darken, even more than the surrounding monks who were off to battle.\n\n[[Continue->Chapter One (216)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (216)",
+          "pid": "233"
+        }
+      ],
+      "name": "Chapter One (215)",
+      "pid": "232",
+      "position": {
+        "x": "19300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "He speaks in a softer tone. “Great evil follows you. I thought you’d be safe here. I don’t know why it wants you, but it’s coming.”\n\n[[Continue->Chapter One (217)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (217)",
+          "pid": "234"
+        }
+      ],
+      "name": "Chapter One (216)",
+      "pid": "233",
+      "position": {
+        "x": "19425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I— I don’t understand,” you manage to say.\n\n[[Continue->Chapter One (218)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (218)",
+          "pid": "235"
+        }
+      ],
+      "name": "Chapter One (217)",
+      "pid": "234",
+      "position": {
+        "x": "19550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You don’t have to understand. Stick to your training, and it will guide you through. Now go! We must defend the monastery.”\n\n[[Continue->Chapter One (219)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (219)",
+          "pid": "236"
+        }
+      ],
+      "name": "Chapter One (218)",
+      "pid": "235",
+      "position": {
+        "x": "19675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "On his final words, Brother Samuel gives you a gentle nudge towards the portal. Hundreds of feet in the air, you take in your surroundings. The hills in front are littered with soldiers. Smoke rises now from several locations in the monastery, your home. There is but one path in front of you.\n\n[[Take the portal->Chapter One (220)]]",
+      "links": [
+        {
+          "name": "Take the portal",
+          "link": "Chapter One (220)",
+          "pid": "237"
+        }
+      ],
+      "name": "Chapter One (219)",
+      "pid": "236",
+      "position": {
+        "x": "19800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Chaos. The portal takes you into the monastery’s courtyard. Arriving, you quickly dodge from a flying spear. The bodies of the invading soldiers are beginning to completely cover the courtyard floor. You breathe a sigh of relief when you don’t see any fallen monks. The monks appear to be fighting well, but the sheer number from the mountainside is too many to count.\n\n[[Continue->Chapter One (221)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (221)",
+          "pid": "238"
+        }
+      ],
+      "name": "Chapter One (220)",
+      "pid": "237",
+      "position": {
+        "x": "19925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Through the doorway to the main hallway, you see Kassi engaged with several soldiers. Their armor is nowhere as neat as Seth’s, if you could call it armor. It's more like rags, with some areas of reinforced leather, than actual armor. The long hair and unkempt beards of the invading soldiers make them seem more animal than man. They fight with the same savagery that you’ve seen in your encounters with woodland creatures surrounding the monastery.\n\n[[Continue->Chapter One (222)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (222)",
+          "pid": "239"
+        }
+      ],
+      "name": "Chapter One (221)",
+      "pid": "238",
+      "position": {
+        "x": "20050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Not wasting any time, you rush towards Kassi picking up a scimitar from one of the savages. Solely focused on Kassi, you impale the closest invader from the back. The sudden rush of blood and fallen ally alert the others of your presence. Savages on either side of you swing their swords at your head almost simultaneously. Dedicated to your training, you instinctively bend your torso backwards. Two blades fly harmlessly overhead. Recovering upright, you slash one’s throat and gouge a deep cut through the other’s chest. Now that you’ve drawn the attention of the others, Kassi picks them apart one at at time. She’s only armed with a small dagger, and you realize she’s fighting as if unarmed, the dagger striking the killing blow.\n\n[[Continue->Chapter One (223)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (223)",
+          "pid": "240"
+        }
+      ],
+      "name": "Chapter One (222)",
+      "pid": "239",
+      "position": {
+        "x": "20175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Are you ok, Kass?” you ask.\n\n[[Continue->Chapter One (224)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (224)",
+          "pid": "241"
+        }
+      ],
+      "name": "Chapter One (223)",
+      "pid": "240",
+      "position": {
+        "x": "20300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You’re seriously asking me that? Don’t forget who taught you everything you know,” she says confidently.\n\n[[Continue->Chapter One (225)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (225)",
+          "pid": "242"
+        }
+      ],
+      "name": "Chapter One (224)",
+      "pid": "241",
+      "position": {
+        "x": "20425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Ok, sorry I asked. What should we do?”\n\n[[Continue->Chapter One (226)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (226)",
+          "pid": "243"
+        }
+      ],
+      "name": "Chapter One (225)",
+      "pid": "242",
+      "position": {
+        "x": "20550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I saw Brother Trevor and Seth head towards the library. If anyone knows what to do, it’s them.”\n\n[[Continue->Chapter One (227)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (227)",
+          "pid": "244"
+        }
+      ],
+      "name": "Chapter One (226)",
+      "pid": "243",
+      "position": {
+        "x": "20675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You make your way through the hallways, fighting off soldiers whenever they come near. Though you are well younger, the soldiers fight with little technique. Their swords moves as if through water. You stick to your training and finish most with a single counter. A slight redirection of their sword leaves them vulnerable to the killing blow. You do not hesitate, even though it is your first time in real combat. You do as you are trained.\n\n[[Continue->Chapter One (228)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (228)",
+          "pid": "245"
+        }
+      ],
+      "name": "Chapter One (227)",
+      "pid": "244",
+      "position": {
+        "x": "20800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "After several turns, you arrive to the library's double doors. The library is normally kept spotless, but the inside looks like a hurricane hit the room. Books, bookcases, and bodies cover the floor. In the center of it all, you see Seth. King Aeric’s emissary appears to be unfazed by the battle and fights alone, no monks by his side. His red armor looks freshly made still, and then you realize the entire robe is blood-soaked; it’s just hidden in the red color. His twin short swords work magnificently together. They glide through the air removing limb and whole heads for those who get too close. He notices you and Kassi and begins to fight his way down toward you.\n\n[[Continue->Chapter One (229)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (229)",
+          "pid": "246"
+        }
+      ],
+      "name": "Chapter One (228)",
+      "pid": "245",
+      "position": {
+        "x": "20925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Arriving near you, and still fighting off several enemies, he shouts. “There are too many of them. We must regroup at Aeric’s keep. Gather all who you can and let’s flee this place.”\n\n[[Continue->Chapter One (230)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (230)",
+          "pid": "247"
+        }
+      ],
+      "name": "Chapter One (229)",
+      "pid": "246",
+      "position": {
+        "x": "21050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“No, we will not abandon our home,” Kassi states.\n\n[[Continue->Chapter One (231)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (231)",
+          "pid": "248"
+        }
+      ],
+      "name": "Chapter One (230)",
+      "pid": "247",
+      "position": {
+        "x": "21175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“There’s no time to argue, girl! Let’s go!”\n\n[[Continue->Chapter One (232)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (232)",
+          "pid": "249"
+        }
+      ],
+      "name": "Chapter One (231)",
+      "pid": "248",
+      "position": {
+        "x": "21300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Seth begins to whisper into a ring on his finger and punches his fist to the ground. Waves of flame fire from the position and sweep into the surrounding soldiers. Kassi screams at the collateral damage. The books in the area instantly light up and the fire begins to spread. With the fire spreading, you exit the library following Seth.\n\n[[Continue->Chapter One (233)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (233)",
+          "pid": "250"
+        }
+      ],
+      "name": "Chapter One (232)",
+      "pid": "249",
+      "position": {
+        "x": "21425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Seth leads you back through the hallways, although in the opposite direction of the courtyard. After a series of twists and turns you end up in the meditation sanctuary. Rows of mats line the open room. A sizeable shrine sits in the center, covered with religious trinkets and sacred flowers. There are no signs of the battle here. Seth walks up to the shrine and examines it.\n\n[[Continue->Chapter One (234)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (234)",
+          "pid": "251"
+        }
+      ],
+      "name": "Chapter One (233)",
+      "pid": "250",
+      "position": {
+        "x": "21550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I never enter a building without an escape plan. Ah, here we are,” he comments.\n\n[[Continue->Chapter One (235)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (235)",
+          "pid": "252"
+        }
+      ],
+      "name": "Chapter One (234)",
+      "pid": "251",
+      "position": {
+        "x": "21675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Seth bends one of the candlesticks near the shrine sideways and pulls another towards him. As he stands back, a low rumble begins from the shrine. Scraping heavily, the top of shrine starts to move to the side. You can see a short staircase from where the shrine used to lay, leading to an underground passageway.\n\n[[Continue->Chapter One (236)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (236)",
+          "pid": "253"
+        }
+      ],
+      "name": "Chapter One (235)",
+      "pid": "252",
+      "position": {
+        "x": "21800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“We must make for King Aeric. If the western border has collapsed, we must inform him,” Seth says jumping down. “Come with me. It’d be best to have monk acolytes accompany me to answer any questions.”\n\n[[Continue->Chapter One (237)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (237)",
+          "pid": "254"
+        }
+      ],
+      "name": "Chapter One (236)",
+      "pid": "253",
+      "position": {
+        "x": "21925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“We can’t just leave. The others need us,” Kassi replies.\n\n[[Continue->Chapter One (238)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (238)",
+          "pid": "255"
+        }
+      ],
+      "name": "Chapter One (237)",
+      "pid": "254",
+      "position": {
+        "x": "22050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“All is lost. We can only hope to avenge them. If you decide to stay, you will be choosing death.\n\n[[Continue->Chapter One (239)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (239)",
+          "pid": "256"
+        }
+      ],
+      "name": "Chapter One (238)",
+      "pid": "255",
+      "position": {
+        "x": "22175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I’m not going,” Kassi firmly states.\n\n[[Continue->Chapter One (240)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (240)",
+          "pid": "257"
+        }
+      ],
+      "name": "Chapter One (239)",
+      "pid": "256",
+      "position": {
+        "x": "22300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“What about you?” Seth asks. “Answer quickly, we haven’t much time.”\n\n[[Go with Seth->Chapter One (241)]]\n[[Stay with Kassi->Chapter One (254)]] ",
+      "links": [
+        {
+          "name": "Go with Seth",
+          "link": "Chapter One (241)",
+          "pid": "258"
+        },
+        {
+          "name": "Stay with Kassi",
+          "link": "Chapter One (254)",
+          "pid": "271"
+        }
+      ],
+      "name": "Chapter One (240)",
+      "pid": "257",
+      "position": {
+        "x": "22425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I’ll go with you,” you say.\n\n[[Continue->Chapter One (242)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (242)",
+          "pid": "259"
+        }
+      ],
+      "name": "Chapter One (241)",
+      "pid": "258",
+      "position": {
+        "x": "22550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“What!” Kassi yells. “Fine, go ahead and leave us. You were never really one of us anyway.”\n\n[[Continue->Chapter One (243)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (243)",
+          "pid": "260"
+        }
+      ],
+      "name": "Chapter One (242)",
+      "pid": "259",
+      "position": {
+        "x": "22675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“You don’t mean that,” you answer.\n\n[[Continue->Chapter One (244)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (244)",
+          "pid": "261"
+        }
+      ],
+      "name": "Chapter One (243)",
+      "pid": "260",
+      "position": {
+        "x": "22800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Enough talk, kid,” Seth intervenes.\n\n[[Continue->Chapter One (245)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (245)",
+          "pid": "262"
+        }
+      ],
+      "name": "Chapter One (244)",
+      "pid": "261",
+      "position": {
+        "x": "22925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You attempt to give Kassi a hug, but she backs away. You notice her eyes beginning to tear up, but she turns and runs before they can fall. Sounds of the battle echo into the meditation room. The soldiers have almost made their way to your position.\n\n[[Continue->Chapter One (246)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (246)",
+          "pid": "263"
+        }
+      ],
+      "name": "Chapter One (245)",
+      "pid": "262",
+      "position": {
+        "x": "23050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Come on, let’s get out of here,” Seth breaks the silence.\n\n[[Continue->Chapter One (247)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (247)",
+          "pid": "264"
+        }
+      ],
+      "name": "Chapter One (246)",
+      "pid": "263",
+      "position": {
+        "x": "23175",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You follow him down the short steps into the narrow tunnel. There isn’t any visible light, so Seth pulls a candle from beside the shrine and takes it with you. You march along in silence and near darkness. The occasional rat scurrying by is the only change in setting. After a few hours, the tunnel begins to incline slightly and you feel a subtle breeze. By now, the candle has long burned out. You follow behind Seth with your arms in front, grazing his back for direction. You keep your steady pace until he stops, suddenly, causing you to bump into his back.\n\n[[Continue->Chapter One (248)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (248)",
+          "pid": "265"
+        }
+      ],
+      "name": "Chapter One (247)",
+      "pid": "264",
+      "position": {
+        "x": "23300",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Here we are,” he utters, more to himself than you. A single rope hangs down in front of you. Looking up, you see a glimpse of a round opening way above you. It must be at least twice as high as the monastery’s walls.\n\n[[Continue->Chapter One (249)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (249)",
+          "pid": "266"
+        }
+      ],
+      "name": "Chapter One (248)",
+      "pid": "265",
+      "position": {
+        "x": "23425",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“Are you sure this is safe?” you ask.\n\n[[Continue->Chapter One (250)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (250)",
+          "pid": "267"
+        }
+      ],
+      "name": "Chapter One (249)",
+      "pid": "266",
+      "position": {
+        "x": "23550",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“More safe than staying within the monastery walls,” he answers. “I’ll climb first. Once I get to the top, I’ll shake the rope. We better go one at a time just in case. Don’t worry, kid. If it holds my weight, it’ll hold yours too. Try to use your legs as much as possible to keep your grip from tiring. Alright, see you at the top.”\n\n[[Continue->Chapter One (251)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (251)",
+          "pid": "268"
+        }
+      ],
+      "name": "Chapter One (250)",
+      "pid": "267",
+      "position": {
+        "x": "23675",
+        "y": "625"
+      }
+    },
+    {
+      "text": "You’re left alone in the dark, save for the small light above you. Now that things have settled a bit, you finally have time to think about the events that just happened. How could an entire army show up almost out of thin air? Kassi said King Aeric was supposed to protect the monastery. Why didn’t his army show up? Then it hits you. Everyone you know is dead. Kassi, Brother Samuel, even Garth is gone. You are alone.\n\n[[Continue->Chapter One (252)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (252)",
+          "pid": "269"
+        }
+      ],
+      "name": "Chapter One (251)",
+      "pid": "268",
+      "position": {
+        "x": "23800",
+        "y": "625"
+      }
+    },
+    {
+      "text": "The rope begins to shake signaling your turn. You take a deep breath and begin to climb up. Your new life was about to begin.\n\n[[Chapter Two: War Refugee->End (253)]]",
+      "links": [
+        {
+          "name": "Chapter Two: War Refugee",
+          "link": "End (253)",
+          "pid": "270"
+        }
+      ],
+      "name": "Chapter One (252)",
+      "pid": "269",
+      "position": {
+        "x": "23925",
+        "y": "625"
+      }
+    },
+    {
+      "text": "Double-click this passage to edit it.",
+      "name": "End (253)",
+      "pid": "270",
+      "position": {
+        "x": "24050",
+        "y": "625"
+      }
+    },
+    {
+      "text": "“I’m not going either,” you say.\n\n[[Continue->Chapter One (255)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (255)",
+          "pid": "272"
+        }
+      ],
+      "name": "Chapter One (254)",
+      "pid": "271",
+      "position": {
+        "x": "22425",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“Gods, you’re going to get yourselves killed. Not my problem anymore.”\n\n[[Continue->Chapter One (256)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (256)",
+          "pid": "273"
+        }
+      ],
+      "name": "Chapter One (255)",
+      "pid": "272",
+      "position": {
+        "x": "22550",
+        "y": "775"
+      }
+    },
+    {
+      "text": "With that, Seth disappears down the short staircase. You feel Kassi’s arms wrap around you.\n\n[[Continue->Chapter One (257)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (257)",
+          "pid": "274"
+        }
+      ],
+      "name": "Chapter One (256)",
+      "pid": "273",
+      "position": {
+        "x": "22675",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“I thought you were going to go for sure,” she says.\n\n[[Continue->Chapter One (258)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (258)",
+          "pid": "275"
+        }
+      ],
+      "name": "Chapter One (257)",
+      "pid": "274",
+      "position": {
+        "x": "22800",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“And leave you? No way,” you answer. “Come on, we better rejoin with the others.”\n\n[[Continue->Chapter One (259)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (259)",
+          "pid": "276"
+        }
+      ],
+      "name": "Chapter One (258)",
+      "pid": "275",
+      "position": {
+        "x": "22925",
+        "y": "775"
+      }
+    },
+    {
+      "text": "You and Kassi exit the meditation room and navigate back through the hallways. You hear battle sounds almost immediately. The fight is working its way deeper into the monastery. You run into a few eager soldiers along the way. You can only guess they tore away from the main force to claim treasure first. They don’t get the chance. You and Kassi don’t leave any breathing.\n\n[[Continue->Chapter One (260)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (260)",
+          "pid": "277"
+        }
+      ],
+      "name": "Chapter One (259)",
+      "pid": "276",
+      "position": {
+        "x": "23050",
+        "y": "775"
+      }
+    },
+    {
+      "text": "Suddenly, the monastery’s tower bell begins to ring, leaving a sinking feeling in your chest. In these circumstances it can only mean one thing: surrender. Voices bring you back to reality. The clash of steel fills your ears no more. The battle has subsided. The voices appear to come from outside. You gaze out a window overlooking the courtyard to see what’s happening.\n\n[[Continue->Chapter One (261)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (261)",
+          "pid": "278"
+        }
+      ],
+      "name": "Chapter One (260)",
+      "pid": "277",
+      "position": {
+        "x": "23175",
+        "y": "775"
+      }
+    },
+    {
+      "text": "Monks stand in the center of a circle, surrounded by the invading soldiers. The Grandmaster is near the edge, fiercely arguing with one of the invading soldiers. You assume it to be their leader by the way he’s dressed. Instead of the ragged armor, he’s in full chain mail and the spear in his hand is far more intricate of a weapon than you’ve run into. Instead of the generic sword, it’s dyed completely black. In fact, it’s the only weapon of the soldiers you’ve run into that looks as if thought was poured into creating it. The argument between the soldier and the Grandmaster continues until a war horn pauses it.\n\n[[Continue->Chapter One (262)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (262)",
+          "pid": "279"
+        }
+      ],
+      "name": "Chapter One (261)",
+      "pid": "278",
+      "position": {
+        "x": "23300",
+        "y": "775"
+      }
+    },
+    {
+      "text": "The horde of soldiers seem to understand the war horn’s signal because they move back to the courtyard’s walls to create more space. Through high arched entryway, you see a platoon of soldiers enter wearing white and gold. Unlike the invading force, these ones are well-equipped. They march in unison. The large tower shields they bear create an impenetrable wall. If you had to guess, you’d bet their combat strategy keeps the same synergy as their march. The white and gold soldiers part in the center, and one of their own walks to the front meeting the Grandmaster face to face.\n\n[[Continue->Chapter One (263)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (263)",
+          "pid": "280"
+        }
+      ],
+      "name": "Chapter One (262)",
+      "pid": "279",
+      "position": {
+        "x": "23425",
+        "y": "775"
+      }
+    },
+    {
+      "text": "Unlike the others, this one doesn’t have a shield. A sizable greatsword hangs on his back and a full helm with two horns sits on his head. He addresses the Grandmaster, and luckily you’re just in range to make out his words.\n\n[[Continue->Chapter One (264)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (264)",
+          "pid": "281"
+        }
+      ],
+      "name": "Chapter One (263)",
+      "pid": "280",
+      "position": {
+        "x": "23550",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“It is finished. Swear your fealty to the Emperor and you will be granted life.”\n\n[[Continue->Chapter One (265)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (265)",
+          "pid": "282"
+        }
+      ],
+      "name": "Chapter One (264)",
+      "pid": "281",
+      "position": {
+        "x": "23675",
+        "y": "775"
+      }
+    },
+    {
+      "text": "You catch a twinge of pride in his voice.\n\n[[Continue->Chapter One (266)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (266)",
+          "pid": "283"
+        }
+      ],
+      "name": "Chapter One (265)",
+      "pid": "282",
+      "position": {
+        "x": "23800",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“We serve no one but the divine,” the Grandmaster answers.\n\n[[Continue->Chapter One (267)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (267)",
+          "pid": "284"
+        }
+      ],
+      "name": "Chapter One (266)",
+      "pid": "283",
+      "position": {
+        "x": "23925",
+        "y": "775"
+      }
+    },
+    {
+      "text": "The soldier with the greatsword crosses his arms. “Keep whatever archaic beliefs you may have. The Emperor only demands your service in this lifetime.”\n\n[[Continue->Chapter One (268)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (268)",
+          "pid": "285"
+        }
+      ],
+      "name": "Chapter One (267)",
+      "pid": "284",
+      "position": {
+        "x": "24050",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“I am afraid we cannot oblige. Our worldly alignment is already devoted to King Aeric. We simply cannot turn our back on promises made, despite the circumstances,” the Grandmaster answers.\n\n[[Continue->Chapter One (269)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (269)",
+          "pid": "286"
+        }
+      ],
+      "name": "Chapter One (268)",
+      "pid": "285",
+      "position": {
+        "x": "24175",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“Such a shame. Apparently the rumors of the deady mountain monks are simply not true.”\n\n[[Continue->Chapter One (270)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (270)",
+          "pid": "287"
+        }
+      ],
+      "name": "Chapter One (269)",
+      "pid": "286",
+      "position": {
+        "x": "24300",
+        "y": "775"
+      }
+    },
+    {
+      "text": "With his reply, the soldier pulls the greatsword from his back and swings through the air in a single motion. The jagged blade cuts through the air and then stops. The Grandmaster’s open hand catches the blade mid-air. A layer of magic emanates from his palm, protecting his skin from the deadly sword.\n\n[[Continue->Chapter One (271)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (271)",
+          "pid": "288"
+        }
+      ],
+      "name": "Chapter One (270)",
+      "pid": "287",
+      "position": {
+        "x": "24425",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“Not even your mysticism can protect you from the Empire’s might, monk,” the soldiers speaks.\n\n[[Continue->Chapter One (272)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (272)",
+          "pid": "289"
+        }
+      ],
+      "name": "Chapter One (271)",
+      "pid": "288",
+      "position": {
+        "x": "24550",
+        "y": "775"
+      }
+    },
+    {
+      "text": "The greatsword begins to emit sparks as if from a blacksmith’s hammer. The Grandmaster’s eyes start to grow wide as he experiences the power of the weapon. The blade slices through the Grandmaster’s open palm, removing the hand, and leaving a large gouge in his chest. The Grandmaster’s body his the ground with a solid thud, his severed hand closely following.\n\n[[Continue->Chapter One (273)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (273)",
+          "pid": "290"
+        }
+      ],
+      "name": "Chapter One (272)",
+      "pid": "289",
+      "position": {
+        "x": "24675",
+        "y": "775"
+      }
+    },
+    {
+      "text": "The group of herded monks look shaken at the sight of their leader’s fallen body. The Grandmaster, the spiritual and mystical leader of the monastery, lies bleeding on the ground. The piercing gray eyes that frightened acolytes are now lifeless. From within the herd, you see Brother Samuel step forward.\n\n[[Continue->Chapter One (274)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (274)",
+          "pid": "291"
+        }
+      ],
+      "name": "Chapter One (273)",
+      "pid": "290",
+      "position": {
+        "x": "24800",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“We will do what you say. Just don’t harm anyone else,” Brother Samuel says.\n\n[[Continue->Chapter One (275)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (275)",
+          "pid": "292"
+        }
+      ],
+      "name": "Chapter One (274)",
+      "pid": "291",
+      "position": {
+        "x": "24925",
+        "y": "775"
+      }
+    },
+    {
+      "text": "The soldier with the greatsword removes his helm and shakes out his shoulder-length hair. He’s much younger than you expected. He couldn’t be much more than thirty years old.\n\n[[Continue->Chapter One (276)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (276)",
+          "pid": "293"
+        }
+      ],
+      "name": "Chapter One (275)",
+      "pid": "292",
+      "position": {
+        "x": "25050",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“The Empire has no room for misguided ideologies,” he states to the army around him.\n\n[[Continue->Chapter One (277)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (277)",
+          "pid": "294"
+        }
+      ],
+      "name": "Chapter One (276)",
+      "pid": "293",
+      "position": {
+        "x": "25175",
+        "y": "775"
+      }
+    },
+    {
+      "text": "On his command the onslaught of soldiers commences. The sheer number surrounding the monks overpower the seasoned monks. Though an average monk may be able to slay tens of men, thousands surround them. You witness several spears piercing Brother Samuel’s gut. Before you can cry out at the death of your mentor, Kassi’s open palm covers your mouth.\n\n[[Continue->Chapter One (278)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (278)",
+          "pid": "295"
+        }
+      ],
+      "name": "Chapter One (277)",
+      "pid": "294",
+      "position": {
+        "x": "25300",
+        "y": "775"
+      }
+    },
+    {
+      "text": "“I hate to say it, but we need to run,” she whispers.\n\n[[Continue->Chapter One (279)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (279)",
+          "pid": "296"
+        }
+      ],
+      "name": "Chapter One (278)",
+      "pid": "295",
+      "position": {
+        "x": "25425",
+        "y": "775"
+      }
+    },
+    {
+      "text": "You nod. “There’s nothing we can do,” you softly speak through tears.\n\n[[Continue->Chapter One (280)]]",
+      "links": [
+        {
+          "name": "Continue",
+          "link": "Chapter One (280)",
+          "pid": "297"
+        }
+      ],
+      "name": "Chapter One (279)",
+      "pid": "296",
+      "position": {
+        "x": "25550",
+        "y": "775"
+      }
+    },
+    {
+      "text": "You and Kassi leave the window's vantage point and sneak down the end of the hallway. One of the open windows leads to the rooftop. With most of the focus on the gathered monks, you’re able to silently walk on the rooftop opposite the direction of the courtyard. No sentries block your way as you climb down the outer edge of the monastery's walls. Your life at the monastery is over, and a war-torn country lies before you. The life you once knew would never be the same.\n\n[[Chapter Two: Thorn in the Empire's Side->End (281)]]",
+      "links": [
+        {
+          "name": "Chapter Two: Thorn in the Empire's Side",
+          "link": "End (281)",
+          "pid": "298"
+        }
+      ],
+      "name": "Chapter One (280)",
+      "pid": "297",
+      "position": {
+        "x": "25675",
+        "y": "775"
+      }
+    },
+    {
+      "text": "Double-click this passage to edit it.",
+      "name": "End (281)",
+      "pid": "298",
+      "position": {
+        "x": "25800",
+        "y": "775"
+      }
+    }
+  ],
+  "name": "Unbroken",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.3.9",
+  "ifid": "A67D3B47-668B-475D-9914-98E9149DEA23"
+}
